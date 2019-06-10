@@ -1,0 +1,22 @@
+﻿
+
+// strings used in scripts
+
+Ee.UI.Xaml.Res={
+'runtimeErrorWithoutPosition': "<$=PlayerRuntimeErrorWithoutPosition$>",
+'scaleModeRequiresScaleTransform': "<$=PlayerScaleModeRequiresScaleTransform$>",
+'mediaError_NotFound': "<$=PlayerMediaError_NotFound$>",
+'runtimeErrorWithPosition': "<$=PlayerRuntimeErrorWithPosition$>",
+'silverlightVersionFormat': "<$=PlayerSilverlightVersionFormat$>",
+'otherError': "<$=PlayerOtherError$>",
+'cannotChangeXamlSource': "<$=PlayerCannotChangeXamlSource$>",
+'parserError': "<$=PlayerParserError$>"
+};
+
+Ee.UI.Xaml.Media.Res={
+'volumeRange':  "<$=PlayerVolumeRange$>",
+'mediaFailed':  "<$=PlayerMediaFailed$>",
+'noMediaElement':  "<$=PlayerNoMediaElement$>",
+'invalidChapterIndex':  "<$=PlayerInvalidChapterIndex$>"
+};
+
