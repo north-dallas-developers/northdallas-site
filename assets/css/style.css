@@ -294,10 +294,11 @@ article {
 .section-email form > * {
   margin-left: 50%;
   transform: translateX(-50%);
-  width: 25%;
+  width: 100%;
 }
 .section-email form input {
   padding: 1.4rem;
+  max-width: 50%;
   height: 2.8rem;
 }
 .section-email form button {
