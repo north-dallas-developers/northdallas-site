@@ -7,7 +7,9 @@ body {
 }
 
 section {
-    padding: ($rhythm * 0.9) $rhythm;
+    padding: ($rhythm) ($rhythm * 1.2);
+
+    margin-bottom: $rhythm;
 }
 
 h1,

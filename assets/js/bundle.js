@@ -9,6 +9,10 @@ window.onload = function() {
         NavigationMenu.classList.toggle("navigation-active");
         document.body.classList.toggle("scroll-freeze");
     });
+
+    // For homepage
+    const HeroSection = document.querySelector(".section-hero");
+    HeroSection.style.height = `${window.innerHeight}px`;
 }
 },{}],2:[function(require,module,exports){
 const Typography = require('typography')

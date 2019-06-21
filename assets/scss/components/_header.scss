@@ -2,14 +2,20 @@
     margin: $rhythm 0;
     padding: 0 $rhythm;
 
-    position: relative;
+    width: 100%;
+
+    position: absolute;
     z-index: 0;
 
     display: flex;
     justify-content: space-between;
 
     h1 {
+        margin-bottom: 0;
+
         max-width: 70%;
+
+        font-size: $rhythm / 1.2;
     }
 }
 
