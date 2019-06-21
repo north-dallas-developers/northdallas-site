@@ -43,7 +43,7 @@ input {
   padding: 0 1.4rem;
   width: 100%;
   position: absolute;
-  z-index: 0;
+  z-index: 99;
   display: flex;
   justify-content: space-between;
 }
