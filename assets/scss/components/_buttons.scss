@@ -5,15 +5,24 @@ button {
 
     background:none;
     border: $stroke-size solid map-get($colors, funston-black);
+
+    transition: all 0.3s cubic-bezier(1, 0, 0, 1);
 }
 
 button:hover {
     cursor: pointer;
+
+    background: map-get($map: $colors, $key: funston-black);
+    
+    color: white;
+}
+
+button:active {
+    transform: scale(0.9);
 }
 
 button:focus, button:active {
     outline: none;
-    background: none;
 }
 
 // Hamburger Menu styling and animation
@@ -22,6 +31,8 @@ button:focus, button:active {
 
     width: $rhythm;
     height: $rhythm;
+
+    background: none;
     
     position: relative;
     z-index: 3;
@@ -35,6 +46,10 @@ button:focus, button:active {
 
         width: inherit;
         height: inherit;
+    }
+
+    &:hover {
+        background: none;
     }
 }
 
@@ -67,7 +82,7 @@ $hamburger-width: $rhythm * 1.2;
 
         background: map-get($map: $colors, $key: funston-black);
 
-        transition: all 0.4s cubic-bezier(1, 0, 0, 1);
+        transition: all 0.3s cubic-bezier(0.455, 0.03, 0.515, 0.955);
     }
 
     &::before {
@@ -104,4 +119,29 @@ $hamburger-width: $rhythm * 1.2;
     padding: 0;
     
     min-width: $rhythm;
+}
+
+// E-mail buttons
+.button-email {
+    padding: $rhythm / 2.5;
+
+    background: map-get($map: $colors, $key: funston-black);
+
+    color: white;
+
+    border: $stroke-size solid map-get($map: $colors, $key: funston-black);
+
+    transition: all 0.3s cubic-bezier(0.455, 0.03, 0.515, 0.955);
+
+    &:hover {
+        background: none;
+
+        color: map-get($map: $colors, $key: funston-black);
+    }
+}
+
+@media only screen and (min-width: 1200px) {
+    .button_hamburger {
+        display: none;
+    }
 }

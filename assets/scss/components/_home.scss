@@ -52,6 +52,31 @@
     position: absolute;
 }
 
+.section-email {
+    display: none;
+
+    form {
+        & > * {
+            margin-left: 50%;
+            transform: translateX(-50%);
+
+            width: 100%;
+        }
+
+        input {
+            padding: $rhythm;
+
+            max-width: 50%;
+
+            height: $rhythm * 2;
+        }
+
+        button {
+            width: 15%;
+        }
+    }
+}
+
 @media only screen and (min-width: 900px) {
     .hero-display_main-text {
         max-width: $rhythm * 16;
@@ -66,5 +91,9 @@
         .hero-display {
             font-size: $rhythm * 3.5;
         }
+    }
+
+    .section-email {
+        display: initial;
     }
 }

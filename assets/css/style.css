@@ -12,6 +12,10 @@ section {
   margin-bottom: 1.4rem;
 }
 
+a {
+  transition: all 0.2s cubic-bezier(0.165, 0.84, 0.44, 1);
+}
+
 h1,
 h2,
 h3,
@@ -92,7 +96,7 @@ nav {
   background: white;
   visibility: hidden;
   opacity: 0;
-  transition: opacity 0.4s cubic-bezier(1, 0, 0, 1);
+  transition: all 0.4s cubic-bezier(1, 0, 0, 1);
 }
 nav ul {
   margin: 0 0 2.1rem 0;
@@ -103,26 +107,52 @@ nav ul {
   opacity: 1;
 }
 
+@media only screen and (min-width: 1200px) {
+  nav {
+    position: relative;
+    padding: 0;
+    width: auto;
+    height: auto;
+    background: none;
+    visibility: visible;
+    opacity: 1;
+    display: block;
+  }
+  nav ul {
+    margin-left: 7rem;
+    display: flex;
+  }
+  nav ul li {
+    padding: 0.7rem 1.4rem;
+  }
+}
 button {
   padding: 0.28rem;
   width: 50%;
   background: none;
   border: 2px solid rgba(0, 0, 0, 0.871);
+  transition: all 0.3s cubic-bezier(1, 0, 0, 1);
 }
 
 button:hover {
   cursor: pointer;
+  background: rgba(0, 0, 0, 0.871);
+  color: white;
+}
+
+button:active {
+  transform: scale(0.9);
 }
 
 button:focus, button:active {
   outline: none;
-  background: none;
 }
 
 .button_hamburger {
   margin-top: 0.7ex;
   width: 1.4rem;
   height: 1.4rem;
+  background: none;
   position: relative;
   z-index: 3;
   border: none;
@@ -133,6 +163,9 @@ button:focus, button:active {
   left: -1ex;
   width: inherit;
   height: inherit;
+}
+.button_hamburger:hover {
+  background: none;
 }
 
 .hamburger-enter {
@@ -151,7 +184,7 @@ button:focus, button:active {
   width: 1.68rem;
   height: 0.2545454545rem;
   background: rgba(0, 0, 0, 0.871);
-  transition: all 0.4s cubic-bezier(1, 0, 0, 1);
+  transition: all 0.3s cubic-bezier(0.455, 0.03, 0.515, 0.955);
 }
 .hamburger-enter::before {
   left: 0;
@@ -182,6 +215,32 @@ button:focus, button:active {
   min-width: 1.4rem;
 }
 
+.button-email {
+  padding: 0.56rem;
+  background: rgba(0, 0, 0, 0.871);
+  color: white;
+  border: 2px solid rgba(0, 0, 0, 0.871);
+  transition: all 0.3s cubic-bezier(0.455, 0.03, 0.515, 0.955);
+}
+.button-email:hover {
+  background: none;
+  color: rgba(0, 0, 0, 0.871);
+}
+
+@media only screen and (min-width: 1200px) {
+  .button_hamburger {
+    display: none;
+  }
+}
+@media only screen and (min-width: 1200px) {
+  .form-email_final {
+    display: initial;
+  }
+
+  .container-email_nav {
+    display: none;
+  }
+}
 article {
   margin: 1.4rem 0;
 }
@@ -233,6 +292,23 @@ article {
   position: absolute;
 }
 
+.section-email {
+  display: none;
+}
+.section-email form > * {
+  margin-left: 50%;
+  transform: translateX(-50%);
+  width: 100%;
+}
+.section-email form input {
+  padding: 1.4rem;
+  max-width: 50%;
+  height: 2.8rem;
+}
+.section-email form button {
+  width: 15%;
+}
+
 @media only screen and (min-width: 900px) {
   .hero-display_main-text {
     max-width: 22.4rem;
@@ -242,6 +318,10 @@ article {
 @media only screen and (min-width: 1200px) {
   .hero-display_main-text .hero-display {
     font-size: 4.9rem;
+  }
+
+  .section-email {
+    display: initial;
   }
 }
 .hidden {
@@ -256,6 +336,15 @@ article {
 
 .align-text\:center {
   text-align: center;
+}
+
+.align-text\:end {
+  text-align: end;
+}
+
+.pack\:right {
+  margin-right: 0;
+  margin-left: auto;
 }
 
 /*# sourceMappingURL=style.css.map */
