@@ -1,0 +1,40 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    position: relative;
+}
+
+section {
+    padding: ($rhythm) ($rhythm * 1.2);
+
+    margin-bottom: $rhythm;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+    font-weight: 700;
+}
+
+li {
+    list-style: none;
+}
+
+td:first-child {
+    font-weight: 700;
+}
+
+input {
+    border: $stroke-size solid map-get($map: $colors, $key: funston-black);
+    margin-bottom: $rhythm;
+}
+
+@media only screen and (min-width: 534px) {
+    section {
+        padding: ($rhythm * 1.2) ($rhythm * 1.5);
+    }
+}

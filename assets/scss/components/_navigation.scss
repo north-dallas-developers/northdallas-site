@@ -1,0 +1,32 @@
+nav {
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 2;
+
+    padding: $rhythm ($rhythm * 2);
+
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+    align-items: flex-start;
+    align-content: flex-start;
+
+    width: 100vw;
+    height: 100vh;
+
+    background: white;
+
+    visibility: hidden;
+    opacity: 0;
+    transition: opacity 0.4s cubic-bezier(1, 0, 0, 1);
+
+    ul {
+        margin: 0 0 ($rhythm * 1.5) 0;
+    }
+}
+
+.navigation-active {
+    visibility: visible;
+    opacity: 1;
+}

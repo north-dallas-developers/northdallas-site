@@ -1,0 +1,107 @@
+button {
+    padding: $rhythm / 5;
+
+    width: 50%;
+
+    background:none;
+    border: $stroke-size solid map-get($colors, funston-black);
+}
+
+button:hover {
+    cursor: pointer;
+}
+
+button:focus, button:active {
+    outline: none;
+    background: none;
+}
+
+// Hamburger Menu styling and animation
+.button_hamburger {
+    margin-top: 0.7ex;
+
+    width: $rhythm;
+    height: $rhythm;
+    
+    position: relative;
+    z-index: 3;
+
+    border: none;
+
+    figure {
+        position: absolute;
+        top: 0;
+        left: -1ex;
+
+        width: inherit;
+        height: inherit;
+    }
+}
+
+$hamburger-height: $rhythm / 5.5;
+$hamburger-width: $rhythm * 1.2;
+
+// Default state
+.hamburger-enter {
+    display: block;
+
+    width: $hamburger-width;
+    height: $hamburger-height;
+
+    margin-top: ($hamburger-height) * 2;
+    
+    background: map-get($map: $colors, $key: funston-black);
+
+    transition: all 0.4s cubic-bezier(1, 0, 0, 1);
+    
+    &::before, &::after {
+        display: block;
+        
+        position: absolute;
+        z-index: -1;
+
+        content: "";
+
+        width: $hamburger-width;
+        height: $hamburger-height;
+
+        background: map-get($map: $colors, $key: funston-black);
+
+        transition: all 0.4s cubic-bezier(1, 0, 0, 1);
+    }
+
+    &::before {
+        left: 0;
+        top: 0;
+    }
+
+    &::after {
+        left: 0;
+        top: $hamburger-height * 4;
+    }
+}
+
+// "X" state
+.hamburger-exit {
+    background: none;
+
+    &::before, &::after {
+        top: $hamburger-height * 2;
+    }
+    &::before {
+        transform: rotate(-45deg);
+    }
+    &::after {
+        transform: rotate(45deg);
+    }
+}
+
+// Social media buttons
+.button_social {
+    background: none;
+    border: 0;
+
+    padding: 0;
+    
+    min-width: $rhythm;
+}

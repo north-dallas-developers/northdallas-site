@@ -1,0 +1,258 @@
+@import url("https://fonts.googleapis.com/css?family=Cabin+Condensed:400,700|Patua+One&display=swap");
+* {
+  box-sizing: border-box;
+}
+
+body {
+  position: relative;
+}
+
+section {
+  padding: 1.4rem 1.68rem;
+  margin-bottom: 1.4rem;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+  font-weight: 700;
+}
+
+li {
+  list-style: none;
+}
+
+td:first-child {
+  font-weight: 700;
+}
+
+input {
+  border: 2px solid rgba(0, 0, 0, 0.871);
+  margin-bottom: 1.4rem;
+}
+
+@media only screen and (min-width: 534px) {
+  section {
+    padding: 1.68rem 2.1rem;
+  }
+}
+.title {
+  margin: 1.4rem 0;
+  padding: 0 1.4rem;
+  width: 100%;
+  position: absolute;
+  z-index: 0;
+  display: flex;
+  justify-content: space-between;
+}
+.title h1 {
+  margin-bottom: 0;
+  max-width: 70%;
+  font-size: 1.1666666667rem;
+}
+
+@media only screen and (min-width: 534px) {
+  .title {
+    padding: 0 2.1rem;
+    margin: 1.68rem 0;
+  }
+}
+@media only screen and (min-width: 1250px) {
+  .title {
+    width: 62vw;
+  }
+}
+footer {
+  margin: 0.7rem 0;
+}
+footer ul {
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+footer ul li {
+  margin: 0 0.4666666667rem;
+}
+
+nav {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 2;
+  padding: 1.4rem 2.8rem;
+  display: flex;
+  flex-flow: column wrap;
+  justify-content: center;
+  align-items: flex-start;
+  align-content: flex-start;
+  width: 100vw;
+  height: 100vh;
+  background: white;
+  visibility: hidden;
+  opacity: 0;
+  transition: opacity 0.4s cubic-bezier(1, 0, 0, 1);
+}
+nav ul {
+  margin: 0 0 2.1rem 0;
+}
+
+.navigation-active {
+  visibility: visible;
+  opacity: 1;
+}
+
+button {
+  padding: 0.28rem;
+  width: 50%;
+  background: none;
+  border: 2px solid rgba(0, 0, 0, 0.871);
+}
+
+button:hover {
+  cursor: pointer;
+}
+
+button:focus, button:active {
+  outline: none;
+  background: none;
+}
+
+.button_hamburger {
+  margin-top: 0.7ex;
+  width: 1.4rem;
+  height: 1.4rem;
+  position: relative;
+  z-index: 3;
+  border: none;
+}
+.button_hamburger figure {
+  position: absolute;
+  top: 0;
+  left: -1ex;
+  width: inherit;
+  height: inherit;
+}
+
+.hamburger-enter {
+  display: block;
+  width: 1.68rem;
+  height: 0.2545454545rem;
+  margin-top: 0.5090909091rem;
+  background: rgba(0, 0, 0, 0.871);
+  transition: all 0.4s cubic-bezier(1, 0, 0, 1);
+}
+.hamburger-enter::before, .hamburger-enter::after {
+  display: block;
+  position: absolute;
+  z-index: -1;
+  content: "";
+  width: 1.68rem;
+  height: 0.2545454545rem;
+  background: rgba(0, 0, 0, 0.871);
+  transition: all 0.4s cubic-bezier(1, 0, 0, 1);
+}
+.hamburger-enter::before {
+  left: 0;
+  top: 0;
+}
+.hamburger-enter::after {
+  left: 0;
+  top: 1.0181818182rem;
+}
+
+.hamburger-exit {
+  background: none;
+}
+.hamburger-exit::before, .hamburger-exit::after {
+  top: 0.5090909091rem;
+}
+.hamburger-exit::before {
+  transform: rotate(-45deg);
+}
+.hamburger-exit::after {
+  transform: rotate(45deg);
+}
+
+.button_social {
+  background: none;
+  border: 0;
+  padding: 0;
+  min-width: 1.4rem;
+}
+
+article {
+  margin: 1.4rem 0;
+}
+
+.article_section {
+  margin: 1.4rem 0;
+}
+
+.section-sponsor ul {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+}
+.section-sponsor ul li {
+  padding: 0 1.4rem;
+  margin: 0.7rem 0;
+  flex: 1 7rem;
+  max-width: 11.2rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.section-sponsor ul li img {
+  width: 100%;
+}
+
+.section-hero {
+  height: 100vh;
+  position: relative;
+  display: flex;
+  flex-flow: column nowrap;
+  justify-content: space-around;
+}
+
+.hero-display {
+  word-wrap: normal;
+  font-size: 2.8rem;
+}
+
+.hero-display\:small {
+  word-wrap: normal;
+}
+
+.hero-display_main-text {
+  margin-top: 8vh;
+  max-width: 65%;
+  position: absolute;
+}
+
+@media only screen and (min-width: 900px) {
+  .hero-display_main-text {
+    max-width: 40%;
+    margin-top: 0;
+  }
+}
+@media only screen and (min-width: 1250px) {
+  .hero-display_main-text {
+    max-width: 20%;
+  }
+}
+.hidden {
+  display: none;
+}
+
+.scroll-freeze {
+  height: 100vh;
+  width: 100vw;
+  overflow: hidden;
+}
+
+/*# sourceMappingURL=style.css.map */

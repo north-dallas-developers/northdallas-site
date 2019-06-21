@@ -1,0 +1,15 @@
+footer {
+    margin: ($rhythm / 2) 0;
+
+    ul {
+        margin: 0;
+
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+        li {
+            margin: 0 ($rhythm / 3);
+        }
+    }
+}
