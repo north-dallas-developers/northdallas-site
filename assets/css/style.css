@@ -96,7 +96,7 @@ nav {
   background: white;
   visibility: hidden;
   opacity: 0;
-  transition: opacity 0.4s cubic-bezier(1, 0, 0, 1);
+  transition: all 0.4s cubic-bezier(1, 0, 0, 1);
 }
 nav ul {
   margin: 0 0 2.1rem 0;
@@ -152,6 +152,7 @@ button:focus, button:active {
   margin-top: 0.7ex;
   width: 1.4rem;
   height: 1.4rem;
+  background: none;
   position: relative;
   z-index: 3;
   border: none;
@@ -162,6 +163,9 @@ button:focus, button:active {
   left: -1ex;
   width: inherit;
   height: inherit;
+}
+.button_hamburger:hover {
+  background: none;
 }
 
 .hamburger-enter {

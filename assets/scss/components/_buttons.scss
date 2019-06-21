@@ -31,6 +31,8 @@ button:focus, button:active {
 
     width: $rhythm;
     height: $rhythm;
+
+    background: none;
     
     position: relative;
     z-index: 3;
@@ -44,6 +46,10 @@ button:focus, button:active {
 
         width: inherit;
         height: inherit;
+    }
+
+    &:hover {
+        background: none;
     }
 }
 

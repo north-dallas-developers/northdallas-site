@@ -19,7 +19,7 @@ nav {
 
     visibility: hidden;
     opacity: 0;
-    transition: opacity 0.4s cubic-bezier(1, 0, 0, 1);
+    transition: all 0.4s cubic-bezier(1, 0, 0, 1);
 
     ul {
         margin: 0 0 ($rhythm * 1.5) 0;
