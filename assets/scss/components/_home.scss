@@ -1,0 +1,58 @@
+.section-sponsor {
+    ul {
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: center;
+        align-items: center;
+
+        margin: 0;
+
+        li {
+            padding: 0 ($rhythm);
+            margin: $rhythm / 2 0;
+
+            flex: 1 ($rhythm * 5);
+            max-width: $rhythm * 8;
+
+            display: flex;
+            justify-content: center;
+            align-items: center;
+
+            img {
+                width: 100%;
+            }
+        }
+    }
+}
+
+.header-display {
+    word-wrap: normal;
+    font-size: $rhythm * 2.0;
+}
+
+.header-display\:small {
+    word-wrap: normal;
+}
+
+@media only screen and (min-width: 702px) {
+    main {
+        
+    }
+}
+
+@media only screen and (min-width: 950px) {
+    main {
+        max-width: 70%;
+
+        margin-left: 10%;
+        margin-right: auto;
+    }
+}
+
+@media only screen and (min-width: 1250px) {
+    main {
+        max-width: 50%;
+
+        margin-left: 20%;
+    }
+}
