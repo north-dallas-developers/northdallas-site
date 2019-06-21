@@ -47,21 +47,24 @@
 .hero-display_main-text {
     margin-top: 8vh;
 
-    max-width: 65%;
+    max-width: $rhythm * 10;
 
     position: absolute;
 }
 
 @media only screen and (min-width: 900px) {
     .hero-display_main-text {
-        max-width: 40%;
-        
-        margin-top: 0;
+        max-width: $rhythm * 16;
+
+        margin-top: 4vh;
     }
 }
 
-@media only screen and (min-width: 1250px) {
+
+@media only screen and (min-width: 1200px) {
     .hero-display_main-text {
-        max-width: 20%;
+        .hero-display {
+            font-size: $rhythm * 3.5;
+        }
     }
 }

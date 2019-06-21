@@ -1,6 +1,6 @@
 .title {
     margin: $rhythm 0;
-    padding: 0 $rhythm;
+    padding: 0 ($rhythm * 1.2);
 
     width: 100%;
 
@@ -16,18 +16,5 @@
         max-width: 70%;
 
         font-size: $rhythm / 1.2;
-    }
-}
-
-@media only screen and (min-width: 534px) {
-    .title {
-        padding: 0 ($rhythm * 1.5);
-        margin: $rhythm * 1.2 0;
-    }
-}
-
-@media only screen and (min-width: 1250px) {
-    .title {
-        width: 62vw;
     }
 }
