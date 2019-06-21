@@ -30,3 +30,31 @@ nav {
     visibility: visible;
     opacity: 1;
 }
+
+@media only screen and (min-width: 1200px) {
+    nav {
+        position: relative;
+
+        padding: 0;
+
+        width: auto;
+        height: auto;
+
+        background: none;
+
+        visibility: visible;
+        opacity: 1;
+
+        display: block;
+
+        ul {
+            margin-left: $rhythm * 5;
+
+            display: flex;
+
+            li {
+                padding: ($rhythm / 2) $rhythm;
+            }
+        }
+    }
+}
