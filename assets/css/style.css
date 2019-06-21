@@ -34,16 +34,21 @@ input {
 }
 
 @media only screen and (min-width: 534px) {
-  section {
-    padding: 1.68rem 2.1rem;
+  main {
+    padding: 1.4rem 7rem;
+  }
+}
+@media only screen and (min-width: 1200px) {
+  main {
+    padding: 1.4rem 14rem;
   }
 }
 .title {
   margin: 1.4rem 0;
-  padding: 0 1.4rem;
+  padding: 0 1.68rem;
   width: 100%;
   position: absolute;
-  z-index: 0;
+  z-index: 99;
   display: flex;
   justify-content: space-between;
 }
@@ -53,17 +58,6 @@ input {
   font-size: 1.1666666667rem;
 }
 
-@media only screen and (min-width: 534px) {
-  .title {
-    padding: 0 2.1rem;
-    margin: 1.68rem 0;
-  }
-}
-@media only screen and (min-width: 1250px) {
-  .title {
-    width: 62vw;
-  }
-}
 footer {
   margin: 0.7rem 0;
 }
@@ -230,19 +224,19 @@ article {
 
 .hero-display_main-text {
   margin-top: 8vh;
-  max-width: 65%;
+  max-width: 14rem;
   position: absolute;
 }
 
 @media only screen and (min-width: 900px) {
   .hero-display_main-text {
-    max-width: 40%;
-    margin-top: 0;
+    max-width: 22.4rem;
+    margin-top: 4vh;
   }
 }
-@media only screen and (min-width: 1250px) {
-  .hero-display_main-text {
-    max-width: 20%;
+@media only screen and (min-width: 1200px) {
+  .hero-display_main-text .hero-display {
+    font-size: 4.9rem;
   }
 }
 .hidden {
