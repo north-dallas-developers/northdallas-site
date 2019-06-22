@@ -2,12 +2,16 @@
     box-sizing: border-box;
 }
 
+
 body {
+    overflow-x: hidden;
+
     position: relative;
 }
 
 section {
     padding: ($rhythm) ($rhythm * 1.2);
+
 
     margin-bottom: $rhythm;
 }
@@ -54,3 +58,5 @@ input {
         padding: ($rhythm) ($rhythm * 10);
     }
 }
+
+
