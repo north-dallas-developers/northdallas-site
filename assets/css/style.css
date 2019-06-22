@@ -4,6 +4,7 @@
 }
 
 body {
+  overflow-x: hidden;
   position: relative;
 }
 
@@ -107,6 +108,47 @@ nav ul {
   opacity: 1;
 }
 
+@media only screen and (min-width: 500px) and (max-width: 1200px) {
+  nav {
+    align-content: center;
+  }
+  nav * {
+    width: 100%;
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+    align-items: center;
+  }
+  nav ul {
+    display: block;
+  }
+  nav form input {
+    max-width: 50%;
+  }
+  nav form button {
+    max-width: 25%;
+  }
+}
+@media only screen and (orientation: landscape) and (max-width: 1200px) {
+  nav {
+    display: flex;
+    flex-flow: row wrap;
+    align-content: center;
+    overflow-y: scroll;
+  }
+  nav ul {
+    display: flex;
+    flex-flow: row wrap;
+    margin-top: 0.7rem;
+    margin-bottom: 0.7rem;
+  }
+  nav ul li {
+    flex: 1 5%;
+  }
+  nav .container-email_nav form {
+    margin-bottom: 0;
+  }
+}
 @media only screen and (min-width: 1200px) {
   nav {
     position: relative;
@@ -233,10 +275,6 @@ button:focus, button:active {
   }
 }
 @media only screen and (min-width: 1200px) {
-  .form-email_final {
-    display: initial;
-  }
-
   .container-email_nav {
     display: none;
   }
@@ -292,9 +330,6 @@ article {
   position: absolute;
 }
 
-.section-email {
-  display: none;
-}
 .section-email form > * {
   margin-left: 50%;
   transform: translateX(-50%);
@@ -302,14 +337,14 @@ article {
 }
 .section-email form input {
   padding: 1.4rem;
-  max-width: 50%;
+  max-width: 80%;
   height: 2.8rem;
 }
 .section-email form button {
-  width: 15%;
+  width: 50%;
 }
 
-@media only screen and (min-width: 900px) {
+@media only screen and (min-width: 820px) {
   .hero-display_main-text {
     max-width: 22.4rem;
     margin-top: 4vh;
@@ -320,8 +355,13 @@ article {
     font-size: 4.9rem;
   }
 
-  .section-email {
-    display: initial;
+  .section-email form input {
+    padding: 1.4rem;
+    max-width: 50%;
+    height: 2.8rem;
+  }
+  .section-email form button {
+    width: 20%;
   }
 }
 .hidden {

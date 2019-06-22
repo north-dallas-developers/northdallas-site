@@ -53,8 +53,6 @@
 }
 
 .section-email {
-    display: none;
-
     form {
         & > * {
             margin-left: 50%;
@@ -66,18 +64,18 @@
         input {
             padding: $rhythm;
 
-            max-width: 50%;
+            max-width: 80%;
 
             height: $rhythm * 2;
         }
 
         button {
-            width: 15%;
+            width: 50%;
         }
     }
 }
 
-@media only screen and (min-width: 900px) {
+@media only screen and (min-width: 820px) {
     .hero-display_main-text {
         max-width: $rhythm * 16;
 
@@ -94,6 +92,19 @@
     }
 
     .section-email {
-        display: initial;
+        form {
+            input {
+                padding: $rhythm;
+    
+                max-width: 50%;
+    
+                height: $rhythm * 2;
+            }
+    
+            button {
+                width: 20%;
+            }
+        }
     }
 }
+

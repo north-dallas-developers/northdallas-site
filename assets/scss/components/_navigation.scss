@@ -31,6 +31,63 @@ nav {
     opacity: 1;
 }
 
+@media only screen and (min-width: 500px) and (max-width: 1200px) {
+    nav {
+        align-content: center;
+
+        * {
+            width: 100%;
+
+            display: flex;
+            flex-flow: column wrap;
+            justify-content: center;
+            align-items: center;
+        }
+
+        ul {
+            display: block;
+        }
+
+        form {
+            input {
+                max-width: 50%;
+            }
+
+            button {
+                max-width: 25%;
+            }
+        }
+    }
+}
+
+@media only screen and (orientation: landscape) and (max-width: 1200px) {
+    nav {
+        display: flex;
+        flex-flow: row wrap;
+        align-content: center;
+
+        overflow-y: scroll;
+
+        ul {
+            display: flex;
+            flex-flow: row wrap;
+
+            margin-top: 0.5 * $rhythm;
+            margin-bottom: 0.5 * $rhythm;
+
+            li {
+                flex: 1 5%;
+            }
+        }
+
+        .container-email_nav {
+            form {
+                margin-bottom: 0;
+            }
+        }
+    }
+}
+
 @media only screen and (min-width: 1200px) {
     nav {
         position: relative;
@@ -58,3 +115,4 @@ nav {
         }
     }
 }
+
