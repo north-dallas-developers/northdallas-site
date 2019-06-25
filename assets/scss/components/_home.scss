@@ -28,8 +28,6 @@
 .section-hero {
     margin-top: $rhythm * 5;
 
-    padding-bottom: $rhythm * 5;
-
     min-height: 100%;
 
     position: relative;
@@ -78,6 +76,8 @@
 @media only screen and (min-width: 500px) {
     .section-hero {
         min-height: 85vh;
+
+        padding-bottom: $rhythm * 5;
 
         justify-content: center;
     }

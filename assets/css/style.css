@@ -322,7 +322,6 @@ article {
 
 .section-hero {
   margin-top: 7rem;
-  padding-bottom: 7rem;
   min-height: 100%;
   position: relative;
   display: flex;
@@ -360,6 +359,7 @@ article {
 @media only screen and (min-width: 500px) {
   .section-hero {
     min-height: 85vh;
+    padding-bottom: 7rem;
     justify-content: center;
   }
 }
