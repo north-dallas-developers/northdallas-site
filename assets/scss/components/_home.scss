@@ -26,7 +26,11 @@
 }
 
 .section-hero {
-    height: 100vh;
+    margin-top: $rhythm * 5;
+
+    padding-bottom: $rhythm * 5;
+
+    min-height: 100%;
 
     position: relative;
 
@@ -45,11 +49,7 @@
 }
 
 .hero-display_main-text {
-    margin-top: 8vh;
-
     max-width: $rhythm * 10;
-
-    position: absolute;
 }
 
 .section-email {
@@ -75,11 +75,17 @@
     }
 }
 
+@media only screen and (min-width: 500px) {
+    .section-hero {
+        min-height: 85vh;
+
+        justify-content: center;
+    }
+}
+
 @media only screen and (min-width: 820px) {
     .hero-display_main-text {
         max-width: $rhythm * 16;
-
-        margin-top: 4vh;
     }
 }
 

@@ -1,7 +1,9 @@
 nav {
     position: fixed;
     top: 0;
+    bottom: 0;
     left: 0;
+    right: 0;
     z-index: 2;
 
     padding: $rhythm ($rhythm * 2);
@@ -11,9 +13,6 @@ nav {
     justify-content: center;
     align-items: flex-start;
     align-content: flex-start;
-
-    width: 100vw;
-    height: 100vh;
 
     background: white;
 

@@ -84,7 +84,9 @@ footer ul li {
 nav {
   position: fixed;
   top: 0;
+  bottom: 0;
   left: 0;
+  right: 0;
   z-index: 2;
   padding: 1.4rem 2.8rem;
   display: flex;
@@ -92,8 +94,6 @@ nav {
   justify-content: center;
   align-items: flex-start;
   align-content: flex-start;
-  width: 100vw;
-  height: 100vh;
   background: white;
   visibility: hidden;
   opacity: 0;
@@ -308,7 +308,9 @@ article {
 }
 
 .section-hero {
-  height: 100vh;
+  margin-top: 7rem;
+  padding-bottom: 7rem;
+  min-height: 100%;
   position: relative;
   display: flex;
   flex-flow: column nowrap;
@@ -325,9 +327,7 @@ article {
 }
 
 .hero-display_main-text {
-  margin-top: 8vh;
   max-width: 14rem;
-  position: absolute;
 }
 
 .section-email form > * {
@@ -344,10 +344,15 @@ article {
   width: 50%;
 }
 
+@media only screen and (min-width: 500px) {
+  .section-hero {
+    min-height: 85vh;
+    justify-content: center;
+  }
+}
 @media only screen and (min-width: 820px) {
   .hero-display_main-text {
     max-width: 22.4rem;
-    margin-top: 4vh;
   }
 }
 @media only screen and (min-width: 1200px) {
