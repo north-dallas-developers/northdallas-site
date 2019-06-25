@@ -64,17 +64,15 @@ input {
 }
 .title h1 {
   margin-bottom: 0;
-  max-width: 70%;
   font-size: 1.1666666667rem;
 }
 
 .button-title {
   padding: 0;
-  width: 100%;
+  width: auto;
   height: 100%;
   text-align: left;
   margin: 0;
-  margin-right: auto;
   border: none;
 }
 .button-title:hover, .button-title:active {
@@ -202,6 +200,7 @@ button:active {
 
 button:focus, button:active {
   outline: none;
+  border: none;
 }
 
 .button_hamburger {
