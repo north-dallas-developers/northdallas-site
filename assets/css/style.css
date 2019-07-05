@@ -283,6 +283,10 @@ button:focus, button:active {
 }
 
 @media only screen and (min-width: 1200px) {
+  button {
+    max-width: 30%;
+  }
+
   .button_hamburger {
     display: none;
   }
@@ -300,14 +304,15 @@ article {
   margin: 1.4rem 0;
 }
 
-.section-sponsor ul {
+.list-sponsors {
   display: flex;
   flex-flow: row wrap;
   justify-content: center;
   align-items: center;
   margin: 0;
 }
-.section-sponsor ul li {
+
+.item-sponsor {
   padding: 0 1.4rem;
   margin: 0.7rem 0;
   flex: 1 7rem;
@@ -316,7 +321,7 @@ article {
   justify-content: center;
   align-items: center;
 }
-.section-sponsor ul li img {
+.item-sponsor img {
   width: 100%;
 }
 
@@ -364,6 +369,10 @@ article {
   }
 }
 @media only screen and (min-width: 820px) {
+  .item-sponsor {
+    flex: 1 11.2rem;
+  }
+
   .hero-display_main-text {
     max-width: 22.4rem;
   }
