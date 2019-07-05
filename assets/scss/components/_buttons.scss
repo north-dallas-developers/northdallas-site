@@ -142,6 +142,10 @@ $hamburger-width: $rhythm * 1.2;
 }
 
 @media only screen and (min-width: 1200px) {
+    button {
+        max-width: 30%;
+    }
+
     .button_hamburger {
         display: none;
     }

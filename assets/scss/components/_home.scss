@@ -1,27 +1,25 @@
-.section-sponsor {
-    ul {
-        display: flex;
-        flex-flow: row wrap;
-        justify-content: center;
-        align-items: center;
+.list-sponsors {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-items: center;
+    
+    margin: 0;
+}
 
-        margin: 0;
-
-        li {
-            padding: 0 ($rhythm);
-            margin: $rhythm / 2 0;
-
-            flex: 1 ($rhythm * 5);
-            max-width: $rhythm * 8;
-
-            display: flex;
-            justify-content: center;
-            align-items: center;
-
-            img {
-                width: 100%;
-            }
-        }
+.item-sponsor {
+    padding: 0 ($rhythm);
+    margin: $rhythm / 2 0;
+    
+    flex: 1 ($rhythm * 5);
+    max-width: $rhythm * 8;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    img {
+        width: 100%;
     }
 }
 
@@ -84,6 +82,10 @@
 }
 
 @media only screen and (min-width: 820px) {
+    .item-sponsor {
+        flex: 1 ($rhythm * 8);
+    }
+
     .hero-display_main-text {
         max-width: $rhythm * 16;
     }
