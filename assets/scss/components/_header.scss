@@ -13,8 +13,27 @@
     h1 {
         margin-bottom: 0;
 
-        max-width: 70%;
-
         font-size: $rhythm / 1.2;
+    }
+}
+
+.button-title {
+    padding: 0;
+
+    width: auto;
+    height: 100%;
+
+    text-align: left;
+
+    margin: 0;
+
+    border: none;
+
+    &:hover, &:active {
+        transform: scale(1.0);
+
+        background: none;
+
+        color: map-get($map: $colors, $key: funston-black);
     }
 }
