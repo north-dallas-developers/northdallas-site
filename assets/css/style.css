@@ -3,14 +3,28 @@
   box-sizing: border-box;
 }
 
+html, body {
+  height: 100%;
+}
+
 body {
   overflow-x: hidden;
+  display: flex;
+  flex-direction: column;
   position: relative;
+}
+
+main {
+  flex: 1 0 auto;
 }
 
 section {
   padding: 1.4rem 1.68rem;
   margin-bottom: 1.4rem;
+}
+
+.section-first {
+  margin-top: 4.2rem;
 }
 
 a {
@@ -83,6 +97,7 @@ input {
 
 footer {
   margin: 0.7rem 0;
+  flex-shrink: 0;
 }
 footer ul {
   margin: 0;

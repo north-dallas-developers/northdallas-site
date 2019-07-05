@@ -2,18 +2,31 @@
     box-sizing: border-box;
 }
 
+html, body {
+    height: 100%;
+}
 
 body {
     overflow-x: hidden;
 
+    display: flex;
+    flex-direction: column;
+
     position: relative;
+}
+
+main {
+    flex: 1 0 auto;
 }
 
 section {
     padding: ($rhythm) ($rhythm * 1.2);
 
-
     margin-bottom: $rhythm;
+}
+
+.section-first {
+    margin-top: $rhythm * 3;
 }
 
 a {

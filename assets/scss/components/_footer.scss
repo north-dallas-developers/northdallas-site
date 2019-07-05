@@ -1,6 +1,8 @@
 footer {
     margin: ($rhythm / 2) 0;
 
+    flex-shrink: 0;
+
     ul {
         margin: 0;
 
