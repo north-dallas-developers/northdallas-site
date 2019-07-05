@@ -1,0 +1,32 @@
+{
+  "name": "northdallas.net",
+  "version": "1.0.0",
+  "description": "",
+  "main": ".eleventy.js",
+  "dependencies": {
+    "luxon": "^1.16.0",
+    "typography": "^0.16.19",
+    "typography-plugin-code": "^0.16.19",
+    "typography-theme-fairy-gates": "^0.16.19",
+    "typography-theme-funston": "^0.16.19"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^0.8.3"
+  },
+  "scripts": {
+    "build": "npx eleventy",
+    "watch": "npx eleventy --watch",
+    "debug": "DEBUG=* npx eleventy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/zeal-consulting/northdallas.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/zeal-consulting/northdallas/issues"
+  },
+  "homepage": "https://gitlab.com/zeal-consulting/northdallas#readme"
+}

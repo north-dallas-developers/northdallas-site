@@ -1,0 +1,16 @@
+---
+pagination:
+    data: collections.meeting
+    size: 50
+    alias: meetings
+title: Meetings
+layout: page.njk
+---
+<section class="section-first">
+    {%- for meeting in meetings | reverse -%}
+    <article>
+        <h2 class="h2-link"><a href="{{ meeting.url }}">{{ meeting.data.title}}</a></h2>
+        <time>{{ meeting.date | readableDate }}</time>
+    </article>
+    {%- endfor -%}
+</section>
