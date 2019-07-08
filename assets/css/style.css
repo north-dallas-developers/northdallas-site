@@ -330,14 +330,16 @@ article {
 .item-sponsor {
   padding: 0 1.4rem;
   margin: 0.7rem 0;
-  flex: 1 7rem;
-  max-width: 11.2rem;
+  flex: 1 auto;
+  min-height: 75px;
+  max-width: 14rem;
   display: flex;
   justify-content: center;
   align-items: center;
 }
 .item-sponsor img {
   width: 100%;
+  height: 100%;
 }
 
 .section-hero {
