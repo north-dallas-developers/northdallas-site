@@ -1,5 +1,10 @@
 // Type
-@import url('https://fonts.googleapis.com/css?family=Cabin+Condensed:400,700|Patua+One&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Cabin+Condensed:400,700|Patua+One&display=fallback');
+
+// 3rd Party
+
+// Typography.js
+@import "./helpers/typography";
 
 // Settings and generics
 @import "./helpers/settings";
