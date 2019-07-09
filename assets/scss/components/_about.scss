@@ -1,0 +1,36 @@
+.section-about {
+    display: flex;
+    flex-flow: row wrap;
+}
+
+.article-about {
+    flex: 1 70%;
+}
+
+.section-officers {
+    padding: 0;
+}
+
+.list-officers {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+}
+
+.list-officers-item {
+    margin: ($rhythm * 1.5) ($rhythm * 2.0);
+
+    flex: 1 50%;
+
+    max-width: $rhythm * 4.0;
+
+    img {
+        border-radius: 50%;
+    }
+}
+
+@media only screen and (min-width: 1024px) {
+    .list-officers-item {
+        max-width: $rhythm * 6.0;
+    }
+}

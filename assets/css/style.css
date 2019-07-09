@@ -406,6 +406,39 @@ article {
     width: 20%;
   }
 }
+.section-about {
+  display: flex;
+  flex-flow: row wrap;
+}
+
+.article-about {
+  flex: 1 70%;
+}
+
+.section-officers {
+  padding: 0;
+}
+
+.list-officers {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+}
+
+.list-officers-item {
+  margin: 2.1rem 2.8rem;
+  flex: 1 50%;
+  max-width: 5.6rem;
+}
+.list-officers-item img {
+  border-radius: 50%;
+}
+
+@media only screen and (min-width: 1024px) {
+  .list-officers-item {
+    max-width: 8.4rem;
+  }
+}
 .hidden {
   display: none;
 }
@@ -427,6 +460,10 @@ article {
 .pack\:right {
   margin-right: 0;
   margin-left: auto;
+}
+
+.bold {
+  font-weight: 600;
 }
 
 /*# sourceMappingURL=style.css.map */
