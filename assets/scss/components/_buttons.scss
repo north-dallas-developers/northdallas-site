@@ -26,6 +26,24 @@ button:focus, button:active {
     border: none;
 }
 
+.button-blank {
+    border: none;
+
+    width: auto;
+    height: auto;
+
+    margin: 0;
+    padding: 0;
+
+    transition: none;
+
+    &:hover {
+        color: inherit;
+
+        background: inherit;
+    }
+}
+
 // Hamburger Menu styling and animation
 .button_hamburger {
     margin-top: 0.7ex;
