@@ -1,16 +1,18 @@
 nav {
     position: fixed;
     top: 0;
-    bottom: 0;
     left: 0;
     right: 0;
     z-index: 2;
 
+    height: 100vh;
+
+    overflow-y: auto;
+
     padding: $rhythm ($rhythm * 2);
 
     display: flex;
-    flex-flow: column wrap;
-    justify-content: center;
+    flex-flow: column nowrap;
     align-items: flex-start;
     align-content: flex-start;
 
@@ -23,11 +25,19 @@ nav {
     ul {
         margin: 0 0 ($rhythm * 1.5) 0;
     }
+
+    form, .button-email {
+        margin-bottom: 0;
+    }
 }
 
 .navigation-active {
     visibility: visible;
     opacity: 1;
+}
+
+.container-nav {
+    margin: auto;
 }
 
 @media only screen and (min-width: 500px) and (max-width: 1200px) {
@@ -44,6 +54,8 @@ nav {
         }
 
         ul {
+            margin-top: $rhythm * 2;
+
             display: block;
         }
 
@@ -54,33 +66,6 @@ nav {
 
             button {
                 max-width: 25%;
-            }
-        }
-    }
-}
-
-@media only screen and (orientation: landscape) and (max-width: 1200px) {
-    nav {
-        display: flex;
-        flex-flow: row wrap;
-        align-content: flex-start;
-
-        overflow-y: scroll;
-
-        ul {
-            display: flex;
-
-            margin-top: 0.5 * $rhythm;
-            margin-bottom: 0.5 * $rhythm;
-
-            li {
-                flex: 1 5%;
-            }
-        }
-
-        .container-email_nav {
-            form {
-                margin-bottom: 0;
             }
         }
     }
