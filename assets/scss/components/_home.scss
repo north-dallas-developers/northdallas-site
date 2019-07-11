@@ -26,16 +26,23 @@
 }
 
 .section-hero {
-    margin-top: $rhythm * 5;
+    margin-top: $rhythm * 4;
 
-    height: 75vh;
-    max-height: 28rem;
+    height: 100vh;
+    min-height: $rhythm * 16;
+    max-height: 25rem;
 
     position: relative;
 
     display: flex;
     flex-flow: column nowrap;
-    justify-content: space-around;
+    justify-content: flex-start;
+}
+
+.hero-display_main-text {
+    margin: auto 0;
+
+    max-width: $rhythm * 10;
 }
 
 .hero-display {
@@ -47,9 +54,6 @@
     word-wrap: normal;
 }
 
-.hero-display_main-text {
-    max-width: $rhythm * 10;
-}
 
 .section-email {
     form {
@@ -76,10 +80,6 @@
 
 @media only screen and (min-width: 500px) {
     .section-hero {
-        min-height: 85vh;
-
-        padding-bottom: $rhythm * 5;
-
         justify-content: center;
     }
 }
@@ -89,6 +89,10 @@
         flex: 1 ($rhythm * 8);
     }
 
+    .section-hero {
+        max-height: 30rem;
+    }
+
     .hero-display_main-text {
         max-width: $rhythm * 16;
     }
@@ -96,10 +100,12 @@
 
 
 @media only screen and (min-width: 1200px) {
-    .hero-display_main-text {
-        .hero-display {
-            font-size: $rhythm * 3.5;
-        }
+    .section-hero {
+        max-height: 36rem;
+    }
+
+    .hero-display {
+        font-size: $rhythm * 3.5;
     }
 
     .section-email {
