@@ -28,6 +28,8 @@ Materials for Tonight: [https://github.com/seansparkman/Introduction.Xamarin.For
 
 <table><tbody><tr><td>Speaker:</td><td>&nbsp;</td><td><b><a title="Sean Sparkman" target="_blank" href="https://twitter.com/seansparkman">Sean Sparkman</a></b></td></tr><tr><td>Date:</td><td>&nbsp;</td><td><b>December 5<sup>th</sup>, 2018</b></td></tr><tr><td valign="top">Time:</td><td>&nbsp;</td><td><b>6:30 PM - 8:30 PM (see <a title="Location" href="../../location/index.html">here</a> for more detail)</b></td></tr><tr><td valign="top">Location:</td><td>&nbsp;</td><td><b>nThrive - Plano, TX</b><br>Maps: <a title="Google" target="_blank" href="https://goo.gl/maps/1OyNE">Google</a> | <a title="Bing" target="_blank" href="http://binged.it/1afBEJ9">Bing</a></td></tr></tbody></table>
 
+## [RSVP Here](https://www.eventbrite.com/e/hands-on-with-xamarinforms-tickets-53200061817)
+
 ## Speaker Bio
 
 I have been a software developer for 18 years now. I have worked in various industries from advertising to voice recognition. I love troubleshooting and problem-solving. As a team lead and senior programmer at Infinity Interactive, Inc., I do primarily C# development for web and mobile. My passion for mobile development has driven to found the DFW Mobile .NET User Group and helped me achieve my Xamarin MVP.

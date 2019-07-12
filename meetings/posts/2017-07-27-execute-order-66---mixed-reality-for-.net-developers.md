@@ -12,6 +12,8 @@ This session helps understand setup needed for Unity environment, skills needed 
 
 <table><tbody><tr><td>Speaker:</td><td>&nbsp;</td><td><b><a title="Ron Dagdag" target="_blank" href="https://twitter.com/rondagdag">Ron Dagdag</a></b></td></tr><tr><td>Date:</td><td>&nbsp;</td><td><b>August 2<sup>nd</sup>, 2017</b></td></tr><tr><td valign="top">Time:</td><td>&nbsp;</td><td><b>6:30 PM - 8:30 PM (see <a title="Location" href="../../location/index.html">here</a> for more detail)</b></td></tr><tr><td valign="top">Location:</td><td>&nbsp;</td><td><b>MedAssets - Plano, TX</b><br>Maps: <a title="Google" target="_blank" href="https://goo.gl/maps/1OyNE">Google</a> | <a title="Bing" target="_blank" href="http://binged.it/1afBEJ9">Bing</a></td></tr></tbody></table>
 
+## [RSVP Here](https://www.eventbrite.com/e/execute-order-66-mixed-reality-for-net-developers-tickets-36581845284)
+
 ## Speaker Bio
 
 Ron Dagdag often jumps between augmented and virtual worlds, but always find ways to come back to this reality. He enjoys building creative projects and is passionate to learn about convergence of Augmented Reality/Virtual Reality with Artificial Intelligence and Internet of Things.

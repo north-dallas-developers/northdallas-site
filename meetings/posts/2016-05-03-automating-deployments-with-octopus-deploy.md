@@ -8,6 +8,8 @@ Is it a chore to get your code deployed? Are you manually deploying updates to p
 
 <table><tbody><tr><td>Speaker:</td><td>&nbsp;</td><td><b><a title="Ryan Rousseau" target="_blank" href="https://twitter.com/ryanrousseau">Ryan Rousseau</a></b></td></tr><tr><td>Date:</td><td>&nbsp;</td><td><b>May 4<sup>th</sup>, 2016</b></td></tr><tr><td valign="top">Time:</td><td>&nbsp;</td><td><b>6:30 PM - 8:30 PM (see <a title="Location" href="../../location/index.html">here</a> for more detail)</b></td></tr><tr><td valign="top">Location:</td><td>&nbsp;</td><td><b>MedAssets - Plano, TX</b><br>Maps: <a title="Google" target="_blank" href="https://goo.gl/maps/1OyNE">Google</a> | <a title="Bing" target="_blank" href="http://binged.it/1afBEJ9">Bing</a></td></tr></tbody></table>
 
+## [RSVP Here](https://www.eventbrite.com/e/automating-deployments-with-octopus-deploy-tickets-24628603817)
+
 ## Speaker Bio
 
 I am a solution architect at Praeses with 9 years of experience working on ASP.NET web applications spanning Web Forms, MVC, and Web API.
@@ -17,6 +19,8 @@ I co-lead the Red River .NET User Group in Shreveport, LA and also volunteer as 
 MinecraftU will be back to do ComputerCraft with us to help us teach kids to program with Minecraft. Please join us!
 
 For your child to participate, they will need to have a laptop with Minecraft already installed. Ideally, they will be logged in and ready to go. Also, please bring $5 to pay for pizza.
+
+## [RSVP Here](https://www.eventbrite.com/e/may-2016-nddnug-kids-night-tickets-24628638922)
 
 Make sure to attend, because in addition to our awesome presenter, we have some way cool prizes!
 

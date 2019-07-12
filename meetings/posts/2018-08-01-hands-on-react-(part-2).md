@@ -10,8 +10,12 @@ Did you miss part 1? If so, we will have a redo of part 1 if enough people are i
 
 <table><tbody><tr><td>Speakers:</td><td>&nbsp;</td><td><b><a title="Douglas Hirsh" target="_blank" href="https://twitter.com/dhirshjr">Douglas Hirsh</a></b> and <b><a title="Eric Sowell" target="_blank" href="http://ericsowell.com">Eric Sowell</a></b></td></tr><tr><td>Date:</td><td>&nbsp;</td><td><b>August 1<sup>st</sup>, 2018</b></td></tr><tr><td valign="top">Time:</td><td>&nbsp;</td><td><b>6:30 PM - 8:30 PM (see <a title="Location" href="../../location/index.html">here</a> for more detail)</b></td></tr><tr><td valign="top">Location:</td><td>&nbsp;</td><td><b>nThrive - Plano, TX</b><br>Maps: <a title="Google" target="_blank" href="https://goo.gl/maps/1OyNE">Google</a> | <a title="Bing" target="_blank" href="http://binged.it/1afBEJ9">Bing</a></td></tr></tbody></table>
 
+## [RSVP for React Training Part 2](https://www.eventbrite.com/e/hands-on-react-part-2-tickets-48545097694)
+
   
   
+
+## [RSVP for React Part 1 Make Up Session](https://www.eventbrite.com/e/hands-on-react-part-1-makeup-session-tickets-48545071616)
 
 ## Speaker Bio
 

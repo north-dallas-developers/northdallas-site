@@ -12,6 +12,8 @@ It is common to use CSS frameworks (like Bootstrap) to do page layout. In this s
 
 <table><tbody><tr><td>Speaker:</td><td>&nbsp;</td><td><b><a title="Eric Sowell" target="_blank" href="http://ericsowell.com">Eric Sowell</a></b></td></tr><tr><td>Date:</td><td>&nbsp;</td><td><b>February 6<sup>th</sup>, 2019</b></td></tr><tr><td valign="top">Time:</td><td>&nbsp;</td><td><b>6:30 PM - 8:30 PM (see <a title="Location" href="../../location/index.html">here</a> for more detail)</b></td></tr><tr><td valign="top">Location:</td><td>&nbsp;</td><td><b>nThrive - Plano, TX</b><br>Maps: <a title="Google" target="_blank" href="https://goo.gl/maps/1OyNE">Google</a> | <a title="Bing" target="_blank" href="http://binged.it/1afBEJ9">Bing</a></td></tr></tbody></table>
 
+## [RSVP Here](https://www.eventbrite.com/e/hands-on-css-flexbox-tickets-55832615857)
+
 ## Speaker Bio
 
 Eric Sowell is Director of Software Development for [Muv](https://www.muvpeople.com/), officer of this Users Group, and former coding instructor. He is the author of a mostly out-of-date book, [Mobile ASP.NET MVC 5](http://www.amazon.com/Mobile-ASP-NET-MVC-Eric-Sowell/dp/1430250569/ref=sr_1_1).

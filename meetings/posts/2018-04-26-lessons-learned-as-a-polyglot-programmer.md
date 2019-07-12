@@ -10,6 +10,8 @@ Amir will give you a tour of languages he has written production code in. He'll 
 
 <table><tbody><tr><td>Speaker:</td><td>&nbsp;</td><td><b><a title="Amir Rajan" target="_blank" href="https://twitter.com/amirrajan">Amir Rajan</a></b></td></tr><tr><td>Date:</td><td>&nbsp;</td><td><b>February 7<sup>th</sup>, 2018</b></td></tr><tr><td valign="top">Time:</td><td>&nbsp;</td><td><b>6:00 PM - 8:30 PM (see <a title="Location" href="../../location/index.html">here</a> for more detail)</b></td></tr><tr><td valign="top">Location:</td><td>&nbsp;</td><td><b>nThrive - Plano, TX</b><br>Maps: <a title="Google" target="_blank" href="https://goo.gl/maps/1OyNE">Google</a> | <a title="Bing" target="_blank" href="http://binged.it/1afBEJ9">Bing</a></td></tr></tbody></table>
 
+## [RSVP Here](https://www.eventbrite.com/e/lessons-learned-as-a-polyglot-programmer-tickets-42663659153)
+
 ## Speaker Bio
 
 Amir Rajan is a pretty good programmer with proficiency in many languages and platforms. He's an indie game developer, a contributor to .Net open source, a fractional CTO, and the owner RubyMotion - a platform that helps devs build mobile apps in Ruby.

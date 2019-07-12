@@ -8,6 +8,8 @@ Today's enterprise cloud consumers have a difficult decision to make when decidi
 
 <table><tbody><tr><td>Speaker:</td><td>&nbsp;</td><td><b><a title="Casey Watson" target="_blank" href="https://github.com/caseywatson">Casey Watson</a></b></td></tr><tr><td>Date:</td><td>&nbsp;</td><td><b>July 5<sup>th</sup>, 2017</b></td></tr><tr><td valign="top">Time:</td><td>&nbsp;</td><td><b>6:00 PM - 8:30 PM (see <a title="Location" href="../../location/index.html">here</a> for more detail)</b></td></tr><tr><td valign="top">Location:</td><td>&nbsp;</td><td><b>nThrive - Plano, TX</b><br>Maps: <a title="Google" target="_blank" href="https://goo.gl/maps/1OyNE">Google</a> | <a title="Bing" target="_blank" href="http://binged.it/1afBEJ9">Bing</a></td></tr></tbody></table>
 
+## [RSVP Here](https://www.eventbrite.com/e/a-tale-of-two-clouds-building-an-app-across-aws-and-azure-tickets-35838902121?aff=utm_source%3Deb_email%26utm_medium%3Demail%26utm_campaign%3Dnew_event_email&utm_term=eventurl_text)
+
 ## Speaker Bio
 
 As a Senior Program Manager with the Azure Customer Advisory Team (AzureCAT) at Microsoft, Casey is dedicated to educating and partnering with GSIs to help build world-class Azure practices. Prior to joining the team, he worked closely with ISVs across the country to help build innovative solutions on the Azure, Office 365 and Windows 10 platforms. Casey considers himself a “cloud polyglot”, holding both MCSD: Azure Solutions Architect and AWS Cloud Solutions Architect certifications.

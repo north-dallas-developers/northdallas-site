@@ -18,6 +18,8 @@ This is a kid-friendly/beginner-friendly session. Everyone that attends will get
 
 <table><tbody><tr><td>Speaker:</td><td>&nbsp;</td><td><b><a title="Amir Rajan" target="_blank" href="http://amirrajan.net">Amir Rajan</a></b></td></tr><tr><td>Date:</td><td>&nbsp;</td><td><b>June 5<sup>th</sup>, 2019</b></td></tr><tr><td valign="top">Time:</td><td>&nbsp;</td><td><b>6:30 PM - 8:30 PM (see <a title="Location" href="../../location/index.html">here</a> for more detail)</b></td></tr><tr><td valign="top">Location:</td><td>&nbsp;</td><td><b>nThrive - Plano, TX</b><br>Maps: <a title="Google" target="_blank" href="https://goo.gl/maps/1OyNE">Google</a> | <a title="Bing" target="_blank" href="http://binged.it/1afBEJ9">Bing</a></td></tr></tbody></table>
 
+## [RSVP Here](https://www.eventbrite.com/e/easy-happy-fun-game-development-with-dragonruby-tickets-62606507750)
+
 ## Speaker Bio
 
 Amir is a hyper-polyglot with over fifteen years of industry experience. His expertise span multiple languages (C#, F#, JavaScript, Objective C, Clojure, C, Ruby) and multiple tech verticals (enterprise software development, compiler engineering, game development).

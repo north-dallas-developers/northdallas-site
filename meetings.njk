@@ -1,16 +1,28 @@
 ---
 pagination:
     data: collections.meeting
-    size: 50
+    size: 20
     alias: meetings
+    reverse: true
 title: Meetings
 layout: page.njk
 ---
 <section class="section-first">
-    {%- for meeting in meetings | reverse -%}
+    {%- for meeting in meetings -%}
     <article>
         <h2 class="h2-link"><a href="{{ meeting.url }}">{{ meeting.data.title}}</a></h2>
         <time>{{ meeting.date | readableDate }}</time>
     </article>
     {%- endfor -%}
+</section>
+<section class="section-meeting-navigation">
+    <a href="{{ pagination.previousPageHref }}">Newer</a>
+    <ul class="section-meeting-navigation_link-list">
+        {%- for i in range(1, pagination.hrefs.length + 1) -%}
+            <li>
+                <a href="{{ pagination.hrefs[i - 1] }}">{{ i }}</a>
+            </li>
+        {%- endfor -%}
+    </ul>
+    <a href="{{ pagination.nextPageHref }}">Older</a>
 </section>
