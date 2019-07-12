@@ -55,29 +55,6 @@
 }
 
 
-.section-email {
-    form {
-        & > * {
-            margin-left: 50%;
-            transform: translateX(-50%);
-
-            width: 100%;
-        }
-
-        input {
-            padding: $rhythm;
-
-            max-width: 80%;
-
-            height: $rhythm * 2;
-        }
-
-        button {
-            width: 50%;
-        }
-    }
-}
-
 @media only screen and (min-width: 500px) {
     .section-hero {
         justify-content: center;
@@ -106,21 +83,5 @@
 
     .hero-display {
         font-size: $rhythm * 3.5;
-    }
-
-    .section-email {
-        form {
-            input {
-                padding: $rhythm;
-    
-                max-width: 50%;
-    
-                height: $rhythm * 2;
-            }
-    
-            button {
-                width: 20%;
-            }
-        }
     }
 }
