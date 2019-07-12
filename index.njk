@@ -18,57 +18,9 @@ title: North Dallas Developer Users Group
 <section>
     <h1>Our Meetings</h1>
     
-    <!-- Each meeting blog style -->
     <article>
-        <!-- Front matter -->
-        <h2>Easy Happy Fun Game Development with DragonRuby!</h2>
-        <h5>Wednesday, May 29 2019</h5>
-        
-        <!-- Paragraph content -->
-        <p>When Amir was a kid, his first introduction to programming was through building games using VB6. You may have a similar story of coding for the first time, making some form of digital interactive media.</p>
-        <p>And like the story usually goes, we eventually have to grow up. We find that becoming successful with arts and technology is hard, so we end up applying our creativity to building enterprise software instead.</p>
-        <p>Well, how about we let our hair down and reconnect with our inner child? Just bring a laptop, open mind, and let's have some fun hacking on cross-platform games using Ruby!</p>
-        <p>This is a kid-friendly/beginner-friendly session. Everyone that attends will get a free license to the game engine Amir will be using during the hands-on workshop: DragonRuby Game Toolkit (http://dragonruby.org).</p>
-        
-        <!-- Resource content (downloads) -->
-        <p>
-            <a href="">Tonight's materials</a>
-        </p>
-        <p>
-            <a href="">Download the sprite assets</a>
-        </p>
-        
-        <!-- Contact table -->
-        <table>
-            <tbody>
-                <tr>
-                    <td>Speaker</td>
-                    <td><a>Amir Rajan</a></td>
-                </tr>
-                <tr>
-                    <td>Date</td>
-                    <td>June 5th, 2019</td>
-                </tr>
-                <tr>
-                    <td>Time</td>
-                    <td>6:30 PM - 8:30PM (see <a>here</a> for more details)</td>
-                </tr>
-                <tr>
-                    <td>Location</td>
-                    <td>nThrive - Plano, TX</td>
-                </tr>
-            </tbody>
-        </table>
-        
-        
-        <!-- Speaker bio content -->
-        <h2>Speaker Bio</h2>
-        <p>Amir is a hyper-polyglot with over fifteen years of industry experience. His expertise span multiple languages (C#, F#, JavaScript, Objective C, Clojure, C, Ruby) and multiple tech verticals (enterprise software development, compiler engineering, game development).</p>
+        {{ collections.meeting[collections.meeting.length-1].templateContent | safe }}
     </article>
-    <!-- RSVP content -->
-    <button>
-        RSVP Here
-    </button>
 </section>
 
 <!-- Sponsors Section -->
