@@ -1,0 +1,79 @@
+fieldset {
+    border: none;
+}
+
+input {
+    padding: $rhythm;
+
+    max-width: 80%;
+
+    height: $rhythm * 2;
+}
+
+button {
+    width: 50%;
+}
+
+.container-email_nav {
+    form {
+        margin: auto;
+    }
+}
+
+.section-email {
+    form {
+        fieldset > * {
+            margin-left: 50%;
+            transform: translateX(-50%);
+
+            width: 100%;
+        }
+
+        button {
+            width: 50%;
+        }
+    }
+}
+
+@media only screen and (min-width: 500px) {
+    .container-email_nav {
+        // where's the display flex? well fieldset items don't like it
+        // don't do it for your sanity
+        fieldset > * {
+            display: block;
+
+            margin: {
+                left: auto;
+                right: auto;
+            }
+        }
+    }
+}
+
+.form-label {
+    margin-bottom: 1.4rem;
+
+    display: inline-block;
+
+    font-family: "Patua One", sans-serif;
+    font-weight: 700;
+    font-size: 1.6rem;
+}
+
+@media only screen and (min-width: 1200px) {
+    .section-email {
+        form {
+            input {
+                padding: $rhythm;
+    
+                max-width: 50%;
+    
+                height: $rhythm * 2;
+            }
+    
+            button {
+                width: 20%;
+            }
+        }
+    }
+}

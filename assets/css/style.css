@@ -865,6 +865,58 @@ nav form, nav .button-email {
     padding: 0.7rem 1.4rem;
   }
 }
+fieldset {
+  border: none;
+}
+
+input {
+  padding: 1.4rem;
+  max-width: 80%;
+  height: 2.8rem;
+}
+
+button {
+  width: 50%;
+}
+
+.container-email_nav form {
+  margin: auto;
+}
+
+.section-email form fieldset > * {
+  margin-left: 50%;
+  transform: translateX(-50%);
+  width: 100%;
+}
+.section-email form button {
+  width: 50%;
+}
+
+@media only screen and (min-width: 500px) {
+  .container-email_nav fieldset > * {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+.form-label {
+  margin-bottom: 1.4rem;
+  display: inline-block;
+  font-family: "Patua One", sans-serif;
+  font-weight: 700;
+  font-size: 1.6rem;
+}
+
+@media only screen and (min-width: 1200px) {
+  .section-email form input {
+    padding: 1.4rem;
+    max-width: 50%;
+    height: 2.8rem;
+  }
+  .section-email form button {
+    width: 20%;
+  }
+}
 button {
   padding: 0.28rem;
   width: 50%;
@@ -1071,20 +1123,6 @@ article {
   word-wrap: normal;
 }
 
-.section-email form > * {
-  margin-left: 50%;
-  transform: translateX(-50%);
-  width: 100%;
-}
-.section-email form input {
-  padding: 1.4rem;
-  max-width: 80%;
-  height: 2.8rem;
-}
-.section-email form button {
-  width: 50%;
-}
-
 @media only screen and (min-width: 500px) {
   .section-hero {
     justify-content: center;
@@ -1110,15 +1148,6 @@ article {
 
   .hero-display {
     font-size: 4.9rem;
-  }
-
-  .section-email form input {
-    padding: 1.4rem;
-    max-width: 50%;
-    height: 2.8rem;
-  }
-  .section-email form button {
-    width: 20%;
   }
 }
 .section-about {
