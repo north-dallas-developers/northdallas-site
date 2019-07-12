@@ -5,3 +5,29 @@ article {
 .article_section {
     margin: $rhythm 0;
 }
+
+.section-meeting-navigation {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    a {
+        margin: 0 $rhythm / 2;
+    }
+}
+
+.section-meeting-navigation_link-list {
+    margin: 0;
+
+    li {
+        margin: 0 ($rhythm / 3);
+
+        display: inline-block;
+
+        a {
+            margin: 0;
+
+            text-decoration: none;
+        }
+    }
+}

@@ -12,6 +12,8 @@ Bring your laptops.
 
 <table><tbody><tr><td>Speaker:</td><td>&nbsp;</td><td><b><a title="Ron Dagdag" target="_blank" href="https://www.linkedin.com/in/rondagdag">Ron Dagdag</a></b></td></tr><tr><td>Date:</td><td>&nbsp;</td><td><b>November 2<sup>nd</sup>, 2016</b></td></tr><tr><td valign="top">Time:</td><td>&nbsp;</td><td><b>6:00 PM - 8:30 PM (see <a title="Location" href="../../location/index.html">here</a> for more detail)</b></td></tr><tr><td valign="top">Location:</td><td>&nbsp;</td><td><b>nThrive - Plano, TX</b><br>Maps: <a title="Google" target="_blank" href="https://goo.gl/maps/1OyNE">Google</a> | <a title="Bing" target="_blank" href="http://binged.it/1afBEJ9">Bing</a></td></tr></tbody></table>
 
+## [RSVP Here](https://www.eventbrite.com/e/bringing-3d-vr-into-html-with-javascript-tickets-28807413750)
+
 ## Speaker Bio
 
 Ron Dagdag is a developer, technologist, and a Maker with over 15 years' experience in IT. He is currently a software engineer and 3D developer at Thyssenkrupp Elevator. He's also a Hackster Ambassador and Littlebits Chapter Leader in Dallas organizing workshop events. Ron enjoys building projects with his 2 kids and is passionate to learn about convergence of Augmented Reality/Virtual Reality, Machine Learning and Internet of Things.

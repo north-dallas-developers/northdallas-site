@@ -16,6 +16,8 @@ To participate in this activity, you will need to bring your laptop and have GIT
 
   
 
+## [RSVP Here for GIT Soup to Nuts](https://www.eventbrite.com/e/git-soup-to-nuts-tickets-49768608247)
+
 ## Speaker Bio
 
 Amir Rajan is a pretty good programmer with proficiency in many languages and platforms. He's an indie game developer, a contributor to .Net open source, a fractional CTO, and the owner of RubyMotion - a platform that helps devs build mobile apps in Ruby.

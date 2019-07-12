@@ -16,6 +16,8 @@ As we live code, the project will be deployed to http://nddnug-demo.azurewebsite
 
 <table><tbody><tr><td>Speaker:</td><td>&nbsp;</td><td><b><a title="Mike Randrup" target="_blank" href="https://github.com/mikerandrup">Mike Randrup</a></b></td></tr><tr><td>Date:</td><td>&nbsp;</td><td><b>February 1<sup>st</sup>, 2017</b></td></tr><tr><td valign="top">Time:</td><td>&nbsp;</td><td><b>6:30 PM - 8:30 PM (see <a title="Location" href="../../location/index.html">here</a> for more detail)</b></td></tr><tr><td valign="top">Location:</td><td>&nbsp;</td><td><b>nThrive - Plano, TX</b><br>Maps: <a title="Google" target="_blank" href="https://goo.gl/maps/1OyNE">Google</a> | <a title="Bing" target="_blank" href="http://binged.it/1afBEJ9">Bing</a></td></tr></tbody></table>
 
+## [RSVP Here](https://www.eventbrite.com/e/up-and-running-with-react-in-aspnet-tickets-31475512104)
+
 ## Speaker Bio
 
 Mike just wrapped up 5 years as a Software Engineer at Match.com on their mobile web product. That included applying modern web technologies like React. He's also spent time at a green building startup that decided to rewrite everything in plain JavaScript and React.

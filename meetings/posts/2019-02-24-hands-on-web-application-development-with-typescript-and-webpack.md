@@ -22,6 +22,8 @@ The skills you learn will help you on any Web project, even if you don't use Nod
 
 <table><tbody><tr><td>Speaker:</td><td>&nbsp;</td><td><b><a title="Michael Perry" target="_blank" href="https://historicalmodeling.com/">Michael Perry</a></b></td></tr><tr><td>Date:</td><td>&nbsp;</td><td><b>March 6<sup>th</sup>, 2019</b></td></tr><tr><td valign="top">Time:</td><td>&nbsp;</td><td><b>6:30 PM - 8:30 PM (see <a title="Location" href="../../location/index.html">here</a> for more detail)</b></td></tr><tr><td valign="top">Location:</td><td>&nbsp;</td><td><b>nThrive - Plano, TX</b><br>Maps: <a title="Google" target="_blank" href="https://goo.gl/maps/1OyNE">Google</a> | <a title="Bing" target="_blank" href="http://binged.it/1afBEJ9">Bing</a></td></tr></tbody></table>
 
+## [RSVP Here](https://www.eventbrite.com/e/hands-on-web-application-development-with-typescript-and-webpack-tickets-57345345472)
+
 ## Speaker Bio
 
 Michael travels through space clinging to the carbon hull of a spherical ship made of molten iron. He commands an army of microorganisms which decompose the molecules that he captures to provide chemical energy for his cells. His mission is to increase entropy throughout the universe.

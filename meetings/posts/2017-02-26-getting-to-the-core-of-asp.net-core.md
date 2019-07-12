@@ -8,6 +8,8 @@ Microsoft has created a new base library for ASP.NET which powers all of ASP.NET
 
 <table><tbody><tr><td>Speaker:</td><td>&nbsp;</td><td><b><a title="Tim Rayburn" target="_blank" href="http://timrayburn.net/">Tim Rayburn</a></b></td></tr><tr><td>Date:</td><td>&nbsp;</td><td><b>March 1<sup>st</sup>, 2017</b></td></tr><tr><td valign="top">Time:</td><td>&nbsp;</td><td><b>6:30 PM - 8:30 PM (see <a title="Location" href="../../location/index.html">here</a> for more detail)</b></td></tr><tr><td valign="top">Location:</td><td>&nbsp;</td><td><b>nThrive - Plano, TX</b><br>Maps: <a title="Google" target="_blank" href="https://goo.gl/maps/1OyNE">Google</a> | <a title="Bing" target="_blank" href="http://binged.it/1afBEJ9">Bing</a></td></tr></tbody></table>
 
+## [RSVP Here](https://www.eventbrite.com/e/getting-to-the-core-of-aspnet-core-tickets-32014365830)
+
 ## Speaker Bio
 
 Tim Rayburn is a Vice President of Consulting with [Improving Enterprises](http://improvingenterprises.com/), a software and project management consulting company in Dallas, TX. He is a passionate advocate of apprenticeship and mentorship in corporate environments. Since 2007 he has been awarded the [Microsoft MVP](http://microsoft.com/mvp) in recognition of his expertise and community leadership. He is also a [conference organizer](http://dallastechfest.com/), [an author](http://www.packtpub.com/entity-framework-4-1-experts-test-driven-development-architecture-cookbook/book), and can be found speaking across the nation on agile processes, software design, and career management. He lives in the North Dallas area with his amazing wife Kate and their loyal dog Gandalf.

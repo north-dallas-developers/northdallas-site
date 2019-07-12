@@ -8,6 +8,8 @@ If you have ever considered teaching at a coding bootcamp, pondered starting one
 
 <table><tbody><tr><td>Speaker:</td><td>&nbsp;</td><td><b><a title="Eric Sowell" target="_blank" href="http://ericsowell.com">Eric Sowell</a></b></td></tr><tr><td>Date:</td><td>&nbsp;</td><td><b>October 4<sup>th</sup>, 2017</b></td></tr><tr><td valign="top">Time:</td><td>&nbsp;</td><td><b>6:30 PM - 8:30 PM (see <a title="Location" href="../../location/index.html">here</a> for more detail)</b></td></tr><tr><td valign="top">Location:</td><td>&nbsp;</td><td><b>nThrive - Plano, TX</b><br>Maps: <a title="Google" target="_blank" href="https://goo.gl/maps/1OyNE">Google</a> | <a title="Bing" target="_blank" href="http://binged.it/1afBEJ9">Bing</a></td></tr></tbody></table>
 
+## [RSVP Here](https://www.eventbrite.com/e/lessons-learned-from-teaching-at-a-coding-bootcamp-tickets-38481859277)
+
 ## Speaker Bio
 
 Eric Sowell is an instructor for The Iron Yard in Dallas (for now) and helps people change careers and become web developers. When Eric is programming, he enjoys server-side development and database work but prefers to live on the client-side, doing either iOS app or web development. He is the author of a partially out-of-date book, Mobile ASP.NET MVC 5 (http://www.amazon.com/Mobile-ASP-NET-MVC-Eric-Sowell/dp/1430250569/ref=sr\_1\_1).

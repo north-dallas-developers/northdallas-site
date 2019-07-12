@@ -14,6 +14,8 @@ This session is interactive. Pencils and paper will be provided.
 
 <table><tbody><tr><td>Speaker:</td><td>&nbsp;</td><td><b><a title="Douglas Hirsh" target="_blank" href="https://twitter.com/dhirshjr">Douglas Hirsh</a></b></td></tr><tr><td>Date:</td><td>&nbsp;</td><td><b>November 7<sup>th</sup>, 2018</b></td></tr><tr><td valign="top">Time:</td><td>&nbsp;</td><td><b>6:30 PM - 8:30 PM (see <a title="Location" href="../../location/index.html">here</a> for more detail)</b></td></tr><tr><td valign="top">Location:</td><td>&nbsp;</td><td><b>nThrive - Plano, TX</b><br>Maps: <a title="Google" target="_blank" href="https://goo.gl/maps/1OyNE">Google</a> | <a title="Bing" target="_blank" href="http://binged.it/1afBEJ9">Bing</a></td></tr></tbody></table>
 
+## [RSVP Here](https://www.eventbrite.com/e/how-to-be-an-up-to-date-developer-tickets-52085992606)
+
 ## Speaker Bio
 
 Douglas Hirsh brings 17 years of professional software development experience. During the day, he is a senior software developer for NectarOM where he helps automate personalization as a service. In his evenings, Douglas works on a project he calls the Deliberate Developer which will help developers learn more efficiently using research-backed techniques. In his spare time, Douglas spends time with his wife Emily and their two sons.

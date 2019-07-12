@@ -10,6 +10,8 @@ For the best development experience, you'll want to install [Node.js](https://no
 
 <table><tbody><tr><td>Speaker:</td><td>&nbsp;</td><td><b><a title="Eric Sowell" target="_blank" href="http://ericsowell.com">Eric Sowell</a></b></td></tr><tr><td>Date:</td><td>&nbsp;</td><td><b>July 11<sup>th</sup>, 2018</b></td></tr><tr><td valign="top">Time:</td><td>&nbsp;</td><td><b>6:30 PM - 8:30 PM (see <a title="Location" href="../../location/index.html">here</a> for more detail)</b></td></tr><tr><td valign="top">Location:</td><td>&nbsp;</td><td><b>nThrive - Plano, TX</b><br>Maps: <a title="Google" target="_blank" href="https://goo.gl/maps/1OyNE">Google</a> | <a title="Bing" target="_blank" href="http://binged.it/1afBEJ9">Bing</a></td></tr></tbody></table>
 
+## [RSVP Here](https://www.eventbrite.com/e/hands-on-react-tickets-47694367136)
+
 ## Speaker Bio
 
 Eric Sowell is a Principal Engineer for One Technologies, officer of this Users Group, and former coding instructor. He writes code when he can but also excels at attending meetings. He is the author of a mostly out-of-date book, [Mobile ASP.NET MVC 5](http://www.amazon.com/Mobile-ASP-NET-MVC-Eric-Sowell/dp/1430250569/ref=sr_1_1).

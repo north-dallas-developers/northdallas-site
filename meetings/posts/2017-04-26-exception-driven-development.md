@@ -10,6 +10,8 @@ It's a pretty simple concept: Collect application data, especially regarding err
 
 <table><tbody><tr><td>Speaker:</td><td>&nbsp;</td><td><b><a title="Blake Niemyjski" target="_blank" href="http://blakeniemyjski.com/">Blake Niemyjski</a></b></td></tr><tr><td>Date:</td><td>&nbsp;</td><td><b>May 3<sup>rd</sup>, 2017</b></td></tr><tr><td valign="top">Time:</td><td>&nbsp;</td><td><b>6:30 PM - 8:30 PM (see <a title="Location" href="../../location/index.html">here</a> for more detail)</b></td></tr><tr><td valign="top">Location:</td><td>&nbsp;</td><td><b>nThrive - Plano, TX</b><br>Maps: <a title="Google" target="_blank" href="https://goo.gl/maps/1OyNE">Google</a> | <a title="Bing" target="_blank" href="http://binged.it/1afBEJ9">Bing</a></td></tr></tbody></table>
 
+## [RSVP Here](https://www.eventbrite.com/e/exception-driven-development-tickets-34091754355)
+
 ## Speaker Bio
 
 Blake Niemyjski is a full time open source software architect, Microsoft MVP and private pilot. Since the late 90’s, Blake's curiosity has been focused around developing software that helps the masses. As a hobbyist developer turned student and professional, Blake's passion is to further his knowledge and create technologies for the future.

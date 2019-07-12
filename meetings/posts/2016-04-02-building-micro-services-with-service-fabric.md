@@ -8,11 +8,15 @@ You have been hearing all the buzz around micro services come and find out what 
 
 <table><tbody><tr><td>Speaker:</td><td>&nbsp;</td><td><b><a title="Shawn Weisfeld" target="_blank" href="http://www.shawnweisfeld.com">Shawn Weisfeld</a></b></td></tr><tr><td>Date:</td><td>&nbsp;</td><td><b>April 6<sup>th</sup>, 2016</b></td></tr><tr><td valign="top">Time:</td><td>&nbsp;</td><td><b>6:30 PM - 8:30 PM (see <a title="Location" href="../../location/index.html">here</a> for more detail)</b></td></tr><tr><td valign="top">Location:</td><td>&nbsp;</td><td><b>MedAssets - Plano, TX</b><br>Maps: <a title="Google" target="_blank" href="https://goo.gl/maps/1OyNE">Google</a> | <a title="Bing" target="_blank" href="http://binged.it/1afBEJ9">Bing</a></td></tr></tbody></table>
 
+## [RSVP Here](https://www.eventbrite.com/e/building-micro-services-with-service-fabric-tickets-23867292715)
+
 ## Speaker Bio
 
 Shawn (http://www.shawnweisfeld.com) is passionate about building awesome applications and websites with .NET technologies and Azure. He is currently a Technical Evangelist for Microsoft based in Austin TX and founder of http://UserGroup.tv. Read his full bio at http://about.me/shawnweisfeld
 
 It's time for more kid's programming! This time we have one of the guys from MinecraftU to talk about building with Minecraft Redstone circuits and command blocks. So bring your laptop with Minecraft already installed. Also, make sure you have a Minecraft login ready to go so your kid can be up and running from the beginning. If you are coming, RSVP below!
+
+## [RSVP Here](https://www.eventbrite.com/e/april-2016-nddnug-kids-night-tickets-23867642762)
 
 ## Sponsors
 

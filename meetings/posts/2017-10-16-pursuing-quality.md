@@ -8,6 +8,8 @@ Quality is hard to define and even harder to achieve. Chris has spent the last 5
 
 <table><tbody><tr><td>Speaker:</td><td>&nbsp;</td><td><b><a title="Chris Holt" target="_blank" href="https://twitter.com/lefthandedgoat">Chris Holt</a></b></td></tr><tr><td>Date:</td><td>&nbsp;</td><td><b>November 1<sup>st</sup>, 2017</b></td></tr><tr><td valign="top">Time:</td><td>&nbsp;</td><td><b>6:30 PM - 8:30 PM (see <a title="Location" href="../../location/index.html">here</a> for more detail)</b></td></tr><tr><td valign="top">Location:</td><td>&nbsp;</td><td><b>nThrive - Plano, TX</b><br>Maps: <a title="Google" target="_blank" href="https://goo.gl/maps/1OyNE">Google</a> | <a title="Bing" target="_blank" href="http://binged.it/1afBEJ9">Bing</a></td></tr></tbody></table>
 
+## [RSVP Here](https://www.eventbrite.com/e/pursuing-quality-tickets-38979146677)
+
 ## Speaker Bio
 
 Chris is a developer with a passion for F#. His journey through the software world has had him building frontends, backends, and automation suites. In his free time he develops an open source testing framework called Canopy.

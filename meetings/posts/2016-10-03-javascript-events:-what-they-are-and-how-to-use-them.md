@@ -10,6 +10,8 @@ This is an intermediate-level talk. All that you need to know is HTML and the ba
 
 <table><tbody><tr><td>Speaker:</td><td>&nbsp;</td><td><b><a title="Eric Sowell" target="_blank" href="http://ericsowell.com">Eric Sowell</a></b></td></tr><tr><td>Date:</td><td>&nbsp;</td><td><b>October 5<sup>th</sup>, 2016</b></td></tr><tr><td valign="top">Time:</td><td>&nbsp;</td><td><b>6:30 PM - 8:30 PM (see <a title="Location" href="../../location/index.html">here</a> for more detail)</b></td></tr><tr><td valign="top">Location:</td><td>&nbsp;</td><td><b>nThrive - Plano, TX</b><br>Maps: <a title="Google" target="_blank" href="https://goo.gl/maps/1OyNE">Google</a> | <a title="Bing" target="_blank" href="http://binged.it/1afBEJ9">Bing</a></td></tr></tbody></table>
 
+## [RSVP Here](https://www.eventbrite.com/e/javascript-events-what-they-are-and-how-to-use-them-tickets-28350654571)
+
 ## Speaker Bio
 
 Eric Sowell is an instructor for [The Iron Yard in Dallas](https://www.theironyard.com/locations/dallas.html) and helps people change careers and become web developers. When programming, he enjoys server-side development and database work but prefers to live on the client-side, doing either iOS app development or web development. He is the author of [Mobile ASP.NET MVC 5](http://www.amazon.com/Mobile-ASP-NET-MVC-Eric-Sowell/dp/1430250569/ref=sr_1_1).

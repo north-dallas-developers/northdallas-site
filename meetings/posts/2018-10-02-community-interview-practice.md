@@ -18,6 +18,8 @@ Our current list of interviews (more to come) are as follows!
 
 <table><tbody><tr><td>Date:</td><td>&nbsp;</td><td><b>October 3<sup>rd</sup>, 2018</b></td></tr><tr><td valign="top">Time:</td><td>&nbsp;</td><td><b>6:30 PM - 8:30 PM (see <a title="Location" href="../../location/index.html">here</a> for more detail)</b></td></tr><tr><td valign="top">Location:</td><td>&nbsp;</td><td><b>nThrive - Plano, TX</b><br>Maps: <a title="Google" target="_blank" href="https://goo.gl/maps/1OyNE">Google</a> | <a title="Bing" target="_blank" href="http://binged.it/1afBEJ9">Bing</a></td></tr></tbody></table>
 
+## [RSVP Here](https://www.eventbrite.com/e/community-interview-practice-tickets-50768989414)
+
 ## Sponsors
 
 ![Odyssey Information Services](http://northdallas.net/files/sponsor/OdysseyLogoFullColor.jpg)
