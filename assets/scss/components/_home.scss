@@ -43,6 +43,12 @@
     margin: auto 0;
 
     max-width: $rhythm * 10;
+
+    & > * {
+        position: relative;
+
+        z-index: 5;
+    }
 }
 
 .hero-display {
@@ -54,10 +60,39 @@
     word-wrap: normal;
 }
 
+.background-arrow_hero {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 0;
+
+    opacity: 0.5;
+
+    width: 120vw;
+    height: 100%;
+}
+
 
 @media only screen and (min-width: 500px) {
     .section-hero {
         justify-content: center;
+    }
+}
+
+@media only screen and (min-width: 534px) {
+    .background-arrow_hero {
+        width: 65vw;
+
+        left: -($rhythm * 1.5);
+        
+        opacity: 1;
+    }
+}
+
+@media only screen and (min-width: 700px) {
+    .background-arrow_hero {
+        width: 60vw;
+        left: -($rhythm * 5);
     }
 }
 
@@ -83,5 +118,10 @@
 
     .hero-display {
         font-size: $rhythm * 3.5;
+    }
+    
+    .background-arrow_hero {
+        width: 50vw;
+        left: -($rhythm * 10);
     }
 }
