@@ -749,16 +749,21 @@ input {
 }
 .title {
   margin: 1.4rem 0;
-  padding: 0 1.68rem;
+  margin-top: 0;
   width: 100%;
   position: absolute;
   z-index: 99;
-  display: flex;
-  justify-content: space-between;
 }
 .title h1 {
   margin-bottom: 0;
   font-size: 1.1666666667rem;
+}
+
+.bar-navigation {
+  padding: 0 1.68rem;
+  display: flex;
+  justify-content: space-between;
+  box-shadow: 0px 3px 6px rgba(23, 23, 23, 0.55);
 }
 
 .button-title {
@@ -775,6 +780,21 @@ input {
   color: rgba(0, 0, 0, 0.871);
 }
 
+@media only screen and (min-width: 534px) {
+  .bar-navigation {
+    padding: 1.4rem 3.78rem;
+  }
+}
+@media only screen and (min-width: 700px) {
+  .bar-navigation {
+    padding: 1.4rem 8.68rem;
+  }
+}
+@media only screen and (min-width: 1200px) {
+  .bar-navigation {
+    padding: 1.4rem 15.68rem;
+  }
+}
 footer {
   margin: 0.7rem 0;
   flex-shrink: 0;
