@@ -1127,14 +1127,25 @@ article {
   word-wrap: normal;
 }
 
-.background-arrow_hero {
+.background {
   position: absolute;
   top: 0;
   left: 0;
   z-index: 0;
-  opacity: 0.5;
+}
+
+.background-arrow_hero {
+  opacity: 0.8;
+  z-index: 1;
   width: 120vw;
   height: 100%;
+}
+
+.background-image_hero {
+  z-index: 0;
+  width: 100vw;
+  height: 100%;
+  object-fit: cover;
 }
 
 @media only screen and (min-width: 500px) {
@@ -1147,6 +1158,10 @@ article {
     width: 65vw;
     left: -2.1rem;
     opacity: 1;
+  }
+
+  .background-image_hero {
+    left: 20vw;
   }
 }
 @media only screen and (min-width: 700px) {
@@ -1235,6 +1250,10 @@ article {
 
 .align-text\:end {
   text-align: end;
+}
+
+.text_white {
+  color: white;
 }
 
 .pack\:right {
