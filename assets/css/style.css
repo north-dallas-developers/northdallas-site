@@ -614,15 +614,16 @@ thead {
 
 td, th {
   text-align: left;
-  border-bottom: 1px solid rgba(0, 0, 0, 0.12);
+  border-bottom: 0px;
   font-feature-settings: "tnum";
   -moz-font-feature-settings: "tnum";
   -ms-font-feature-settings: "tnum";
   -webkit-font-feature-settings: "tnum";
   padding-left: 0.93333rem;
   padding-right: 0.93333rem;
-  padding-top: 0.7rem;
-  padding-bottom: calc(0.7rem - 1px);
+  padding-top: 0.6rem;
+  padding-bottom: 0px;
+  font-size: large;
 }
 
 th:first-child, td:first-child {
@@ -1067,6 +1068,35 @@ button:focus, button:active {
   min-width: 1.4rem;
 }
 
+article p a {
+  padding: 0.56rem;
+  background: rgba(0, 0, 0, 0.871);
+  color: white;
+  border: 2px solid rgba(0, 0, 0, 0.871);
+  transition: all 0.3s cubic-bezier(0.455, 0.03, 0.515, 0.955);
+  border-radius: 30px;
+  -webkit-appearance: button;
+  -moz-appearance: button;
+  min-width: 167px;
+  text-decoration: none;
+  text-align: center;
+  font-size: medium;
+}
+
+.primary-button {
+  padding: 0.56rem;
+  background: rgba(0, 0, 0, 0.871);
+  color: white;
+  border: 2px solid rgba(0, 0, 0, 0.871);
+  transition: all 0.3s cubic-bezier(0.455, 0.03, 0.515, 0.955);
+  border-radius: 30px;
+  -webkit-appearance: button;
+  -moz-appearance: button;
+  min-width: 167px;
+  text-decoration: none;
+  text-align: center;
+}
+
 .button-email {
   padding: 0.56rem;
   background: rgba(0, 0, 0, 0.871);
@@ -1097,8 +1127,33 @@ article {
   margin: 1.4rem 0;
 }
 
+article h2 img {
+  height: 40px;
+  margin-bottom: 0px;
+  vertical-align: middle;
+  margin-right: 5px;
+}
+
+article h2 {
+  font-weight: 500;
+}
+
 .article_section {
   margin: 1.4rem 0;
+}
+
+.event-header img {
+  height: 60px;
+  width: 60px;
+  vertical-align: middle;
+  margin-bottom: 0px;
+  margin-right: 40px;
+}
+
+.event-header span {
+  vertical-align: middle;
+  font-size: 2.8rem;
+  font-weight: 500;
 }
 
 .section-meeting-navigation {
