@@ -33,6 +33,17 @@ function isNumeric(n) {
   return !isNaN(parseFloat(n)) && isFinite(n);
 }
 
+window.onscroll = fixHeader;
+
+function fixHeader() {
+    let header = document.querySelector(".bar-navigation");
+    let sticky = header.offsetTop;
+    if (window.pageYOffset > sticky) {
+        header.classList.add("sticky");
+    } else {
+        header.classList.remove("sticky");
+  }
+}
 
 module.exports = function(lightness, hue, darkBackground) {
   if (typeof hue === "undefined") {

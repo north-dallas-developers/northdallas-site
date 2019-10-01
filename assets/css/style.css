@@ -544,10 +544,6 @@ th {
   font-weight: 700;
 }
 
-li {
-  margin-bottom: calc(1.4rem / 2);
-}
-
 ol li {
   padding-left: 0;
 }
@@ -558,14 +554,11 @@ ul li {
 
 li > ol {
   margin-left: 1.4rem;
-  margin-bottom: calc(1.4rem / 2);
   margin-top: calc(1.4rem / 2);
 }
 
 li > ul {
   margin-left: 1.4rem;
-  margin-bottom: calc(1.4rem / 2);
-  margin-top: calc(1.4rem / 2);
 }
 
 blockquote *:last-child {
@@ -704,7 +697,7 @@ section {
 }
 
 .section-first {
-  margin-top: 4.2rem;
+  margin-top: 5.2rem;
 }
 
 a {
@@ -756,7 +749,13 @@ input {
 }
 .title h1 {
   margin-bottom: 0;
+  font-weight: 500;
   font-size: 1.1666666667rem;
+}
+
+.title-break {
+  border-bottom: 1px solid rgba(0,0,0,0.5);
+  margin-top: 5px;
 }
 
 .bar-navigation {
@@ -764,6 +763,13 @@ input {
   display: flex;
   justify-content: space-between;
   box-shadow: 0px 3px 6px rgba(23, 23, 23, 0.55);
+  background-color: white;
+  width: 100%;
+}
+
+.sticky {
+  position: fixed;
+  top: 0;
 }
 
 .button-title {
@@ -782,31 +788,47 @@ input {
 
 @media only screen and (min-width: 534px) {
   .bar-navigation {
-    padding: 1.4rem 3.78rem;
+    padding: 1rem 3.78rem;
   }
 }
 @media only screen and (min-width: 700px) {
   .bar-navigation {
-    padding: 1.4rem 8.68rem;
+    padding: 1rem 8.68rem;
   }
 }
 @media only screen and (min-width: 1200px) {
   .bar-navigation {
-    padding: 1.4rem 15.68rem;
+    padding: 1rem 15.68rem;
   }
 }
 footer {
-  margin: 0.7rem 0;
+  padding: 0.7rem 0;
   flex-shrink: 0;
+  border-top: 1px solid rgba(0, 0, 0, 0.12);
+  background: white;
+}
+footer a {
+  text-decoration: none
 }
 footer ul {
   margin: 0;
+  padding: 0 1.68rem;
   display: flex;
-  justify-content: center;
+  justify-content: flex-end;
   align-items: center;
 }
 footer ul li {
   margin: 0 0.4666666667rem;
+  height: 28px;
+}
+footer img {
+  height: 100%;
+  vertical-align: middle;
+}
+.list-break {
+  box-sizing: border-box;
+  border-right: 1px solid rgba(0, 0, 0, 1);
+  height: 35px;
 }
 
 nav {
@@ -827,9 +849,7 @@ nav {
   opacity: 0;
   transition: all 0.4s cubic-bezier(1, 0, 0, 1);
 }
-nav ul {
-  margin: 0 0 2.1rem 0;
-}
+
 nav form, nav .button-email {
   margin-bottom: 0;
 }
@@ -843,7 +863,15 @@ nav form, nav .button-email {
   margin: auto;
 }
 
-@media only screen and (min-width: 500px) and (max-width: 1200px) {
+.container-nav a {
+  text-decoration: none
+}
+
+.container-nav li {
+  margin-bottom: 0;
+}
+
+@media only screen and (min-width: 500px) and (max-width: 1199px) {
   nav {
     align-content: center;
   }
@@ -877,12 +905,11 @@ nav form, nav .button-email {
     display: block;
   }
   nav ul {
-    margin-left: 7rem;
     margin-bottom: 0;
     display: flex;
   }
   nav ul li {
-    padding: 0.7rem 1.4rem;
+    padding: 0.7rem 0rem 0.7rem 1.8rem;
   }
 }
 fieldset {
@@ -1141,6 +1168,7 @@ article {
 .hero-display {
   word-wrap: normal;
   font-size: 2.8rem;
+  font-weight: 500;
 }
 
 .hero-display\:small {
