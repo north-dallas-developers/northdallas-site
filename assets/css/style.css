@@ -874,11 +874,13 @@ footer ul {
   margin: 0;
   padding: 0 1.68rem;
   display: flex;
+  flex-flow: row nowrap;
   justify-content: flex-end;
   align-items: center;
 }
 footer ul li {
   margin: 0 0.4666666667rem;
+  flex: 0 0 auto;
   height: 28px;
 }
 
