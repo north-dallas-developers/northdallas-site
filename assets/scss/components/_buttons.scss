@@ -1,75 +1,90 @@
 button {
-    padding: $rhythm / 5;
+  padding: $rhythm / 5;
 
-    width: 50%;
+  width: 50%;
 
-    background:none;
-    border: $stroke-size solid map-get($colors, funston-black);
+  background: none;
+  border: $stroke-size solid map-get($colors, funston-black);
 
-    transition: all 0.3s cubic-bezier(1, 0, 0, 1);
+  transition: all 0.3s cubic-bezier(1, 0, 0, 1);
 }
 
 button:hover {
-    cursor: pointer;
+  cursor: pointer;
 
-    background: map-get($map: $colors, $key: funston-black);
-    
-    color: white;
+  background: map-get($map: $colors, $key: funston-black);
+
+  color: white;
 }
 
 button:active {
-    transform: scale(0.9);
+  transform: scale(0.9);
 }
 
-button:focus, button:active {
-    outline: none;
-    border: none;
+button:focus,
+button:active {
+  outline: none;
+  border: none;
+}
+
+.primary-button {
+  padding: 0.56rem;
+  background: rgba(0, 0, 0, 0.871);
+  color: white;
+  border: 2px solid rgba(0, 0, 0, 0.871);
+  transition: all 0.3s cubic-bezier(0.455, 0.03, 0.515, 0.955);
+  border-radius: 30px;
+  -webkit-appearance: button;
+  -moz-appearance: button;
+  min-width: 167px;
+  text-decoration: none;
+  text-align: center;
 }
 
 .button-blank {
-    border: none;
+  border: none;
 
-    width: auto;
-    height: auto;
+  width: auto;
+  height: auto;
 
-    margin: 0;
-    padding: 0;
+  margin: 0;
+  padding: 0;
 
-    transition: none;
+  transition: none;
 
-    &:hover {
-        color: inherit;
+  &:hover {
+    color: inherit;
 
-        background: inherit;
-    }
+    background: inherit;
+  }
 }
 
 // Hamburger Menu styling and animation
 .button_hamburger {
-    margin-top: 0.7ex;
+  margin-top: 0.7ex;
 
-    width: $rhythm;
-    height: $rhythm;
+  width: $rhythm;
+  height: $rhythm;
 
+  background: none;
+
+  position: relative;
+  z-index: 3;
+
+  border: none;
+
+  figure {
+    position: absolute;
+    top: 0;
+    left: -1ex;
+
+    width: inherit;
+    height: inherit;
+  }
+
+  &:hover {
     background: none;
-    
-    position: relative;
-    z-index: 3;
-
-    border: none;
-
-    figure {
-        position: absolute;
-        top: 0;
-        left: -1ex;
-
-        width: inherit;
-        height: inherit;
-    }
-
-    &:hover {
-        background: none;
-    }
+  }
 }
 
 $hamburger-height: $rhythm / 5.5;
@@ -77,94 +92,96 @@ $hamburger-width: $rhythm * 1.2;
 
 // Default state
 .hamburger-enter {
+  display: block;
+
+  width: $hamburger-width;
+  height: $hamburger-height;
+
+  margin-top: ($hamburger-height) * 2;
+
+  background: map-get($map: $colors, $key: funston-black);
+
+  transition: all 0.4s cubic-bezier(1, 0, 0, 1);
+
+  &::before,
+  &::after {
     display: block;
+
+    position: absolute;
+    z-index: -1;
+
+    content: "";
 
     width: $hamburger-width;
     height: $hamburger-height;
 
-    margin-top: ($hamburger-height) * 2;
-    
     background: map-get($map: $colors, $key: funston-black);
 
-    transition: all 0.4s cubic-bezier(1, 0, 0, 1);
-    
-    &::before, &::after {
-        display: block;
-        
-        position: absolute;
-        z-index: -1;
+    transition: all 0.3s cubic-bezier(0.455, 0.03, 0.515, 0.955);
+  }
 
-        content: "";
+  &::before {
+    left: 0;
+    top: 0;
+  }
 
-        width: $hamburger-width;
-        height: $hamburger-height;
-
-        background: map-get($map: $colors, $key: funston-black);
-
-        transition: all 0.3s cubic-bezier(0.455, 0.03, 0.515, 0.955);
-    }
-
-    &::before {
-        left: 0;
-        top: 0;
-    }
-
-    &::after {
-        left: 0;
-        top: $hamburger-height * 4;
-    }
+  &::after {
+    left: 0;
+    top: $hamburger-height * 4;
+  }
 }
 
 // "X" state
 .hamburger-exit {
-    background: none;
+  background: none;
 
-    &::before, &::after {
-        top: $hamburger-height * 2;
-    }
-    &::before {
-        transform: rotate(-45deg);
-    }
-    &::after {
-        transform: rotate(45deg);
-    }
+  &::before,
+  &::after {
+    top: $hamburger-height * 2;
+  }
+  &::before {
+    transform: rotate(-45deg);
+  }
+  &::after {
+    transform: rotate(45deg);
+  }
 }
 
 // Social media buttons
 .button_social {
-    background: none;
-    border: 0;
+  background: none;
+  border: 0;
 
-    padding: 0;
-    
-    min-width: $rhythm;
+  padding: 0;
+
+  min-width: $rhythm;
 }
 
 // E-mail buttons
 .button-email {
-    padding: $rhythm / 2.5;
+  padding: $rhythm / 2.5;
 
-    background: map-get($map: $colors, $key: funston-black);
+  background: map-get($map: $colors, $key: funston-black);
 
-    color: white;
+  color: white;
 
-    border: $stroke-size solid map-get($map: $colors, $key: funston-black);
+  border: $stroke-size solid map-get($map: $colors, $key: funston-black);
 
-    transition: all 0.3s cubic-bezier(0.455, 0.03, 0.515, 0.955);
+  transition: all 0.3s cubic-bezier(0.455, 0.03, 0.515, 0.955);
 
-    &:hover {
-        background: none;
+  &:hover {
+    background: none;
 
-        color: map-get($map: $colors, $key: funston-black);
-    }
+    color: map-get($map: $colors, $key: funston-black);
+  }
 }
 
 @media only screen and (min-width: 1200px) {
-    button {
-        max-width: 30%;
-    }
+  button {
+    max-width: 30%;
+  }
 
-    .button_hamburger {
-        display: none;
-    }
+  .button_hamburger {
+    display: none;
+  }
 }

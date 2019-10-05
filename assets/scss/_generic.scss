@@ -1,38 +1,39 @@
 * {
-    box-sizing: border-box;
+  box-sizing: border-box;
 }
 
-html, body {
-    height: 100%;
+html,
+body {
+  height: 100%;
 }
 
 body {
-    max-width: 100%;
+  max-width: 100%;
 
-    display: flex;
-    flex-direction: column;
+  display: flex;
+  flex-direction: column;
 
-    position: relative;
+  position: relative;
 }
 
 main {
-    overflow-x: hidden;
-    
-    flex: 1 0 auto;
+  overflow-x: hidden;
+
+  flex: 1 0 auto;
 }
 
 section {
-    padding: ($rhythm) ($rhythm * 1.2);
+  padding: ($rhythm) ($rhythm * 1.2);
 
-    margin-bottom: $rhythm;
+  margin-bottom: $rhythm;
 }
 
 .section-first {
-    margin-top: $rhythm * 3;
+  margin-top: 5.2rem;
 }
 
 a {
-    transition: all 0.2s cubic-bezier(0.165, 0.84, 0.44, 1);
+  transition: all 0.2s cubic-bezier(0.165, 0.84, 0.44, 1);
 }
 
 h1,
@@ -40,20 +41,66 @@ h2,
 h3,
 h4,
 h5 {
-    font-weight: 700;
+  font-weight: 700;
 }
 
 li {
-    list-style: none;
+  list-style: none;
+
+  margin-bottom: 0;
+}
+
+li > ol {
+  margin-bottom: 0;
+}
+
+li > ul {
+  margin-bottom: 0;
+  margin-top: 0;
 }
 
 td:first-child {
-    font-weight: 700;
+  font-weight: 700;
+}
+
+td,
+th {
+  border-bottom: 0px;
+  padding-top: 0.6rem;
+  padding-bottom: 0px;
+  font-size: large;
 }
 
 input {
-    border: $stroke-size solid map-get($map: $colors, $key: funston-black);
-    margin-bottom: $rhythm;
+  border: $stroke-size solid map-get($map: $colors, $key: funston-black);
+  margin-bottom: $rhythm;
+}
+
+// Dangerously generic
+article h2 img {
+  height: 40px;
+  margin-bottom: 0px;
+  vertical-align: middle;
+  margin-right: 5px;
+}
+
+article h2 {
+  font-weight: 500;
+}
+
+article p a {
+  padding: 0.56rem;
+  background: rgba(0, 0, 0, 0.871);
+  color: white;
+  border: 2px solid rgba(0, 0, 0, 0.871);
+  transition: all 0.3s cubic-bezier(0.455, 0.03, 0.515, 0.955);
+  border-radius: 30px;
+  -webkit-appearance: button;
+  -moz-appearance: button;
+  min-width: 167px;
+  text-decoration: none;
+  text-align: center;
+  font-size: medium;
 }
 
 hr {
@@ -61,21 +108,19 @@ hr {
 }
 
 @media only screen and (min-width: 534px) {
-    main {
-        padding: ($rhythm) ($rhythm * 1.5);
-    }
+  main {
+    padding: ($rhythm) ($rhythm * 1.5);
+  }
 }
 
 @media only screen and (min-width: 700px) {
-    main {
-        padding: ($rhythm) ($rhythm * 5);
-    }
+  main {
+    padding: ($rhythm) ($rhythm * 5);
+  }
 }
 
 @media only screen and (min-width: 1200px) {
-    main {
-        padding: ($rhythm) ($rhythm * 10);
-    }
+  main {
+    padding: ($rhythm) ($rhythm * 10);
+  }
 }
-
-
