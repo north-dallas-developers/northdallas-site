@@ -1138,6 +1138,11 @@ article h2 {
   font-weight: 500;
 }
 
+.sub-time {
+  color: gray;
+  margin-bottom: 0.5rem;
+}
+
 .article_section {
   margin: 1.4rem 0;
 }
