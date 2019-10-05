@@ -11,7 +11,11 @@ layout: page.njk
     {%- for meeting in meetings -%}
     <article>
         <h2 class="h2-link"><a href="{{ meeting.url }}">{{ meeting.data.title}}</a></h2>
-        <time>{{ meeting.date | readableDate }}</time>
+        <div class="sub-time">
+            <time>{{ meeting.date | readableDate }}</time>
+        </div>
+        
+        {% meetingSummary meeting.templateContent, meeting.url %}
     </article>
     {%- endfor -%}
 </section>

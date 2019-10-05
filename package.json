@@ -4,6 +4,7 @@
   "description": "",
   "main": ".eleventy.js",
   "dependencies": {
+    "jsdom": "^15.1.1",
     "luxon": "^1.16.0",
     "typography": "^0.16.19",
     "typography-plugin-code": "^0.16.19",
