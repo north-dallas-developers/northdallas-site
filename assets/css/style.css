@@ -815,7 +815,7 @@ hr {
 }
 
 .bar-navigation {
-  padding: 0 1.68rem;
+  padding: 1rem 1.68rem;
   display: flex;
   justify-content: space-between;
   box-shadow: 0px 3px 6px rgba(23, 23, 23, 0.55);
