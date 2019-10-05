@@ -1,102 +1,105 @@
 nav {
-    position: fixed;
-    top: 0;
-    left: 0;
-    right: 0;
-    z-index: 2;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 2;
 
-    height: 100vh;
+  height: 100vh;
 
-    overflow-y: auto;
+  overflow-y: auto;
 
-    padding: $rhythm ($rhythm * 2);
+  padding: $rhythm ($rhythm * 2);
 
-    display: flex;
-    flex-flow: column nowrap;
-    align-items: flex-start;
-    align-content: flex-start;
+  display: flex;
+  flex-flow: column nowrap;
+  align-items: flex-start;
+  align-content: flex-start;
 
-    background: white;
+  background: white;
 
-    visibility: hidden;
-    opacity: 0;
-    transition: all 0.4s cubic-bezier(1, 0, 0, 1);
+  visibility: hidden;
+  opacity: 0;
+  transition: all 0.4s cubic-bezier(1, 0, 0, 1);
 
-    ul {
-        margin: 0 0 ($rhythm * 1.5) 0;
-    }
-
-    form, .button-email {
-        margin-bottom: 0;
-    }
+  form,
+  .button-email {
+    margin-bottom: 0;
+  }
 }
 
 .navigation-active {
-    visibility: visible;
-    opacity: 1;
+  visibility: visible;
+  opacity: 1;
 }
 
 .container-nav {
-    margin: auto;
+  margin: auto;
+
+  & a {
+    text-decoration: none;
+  }
+
+  & li {
+    margin-bottom: 0;
+  }
 }
 
 @media only screen and (min-width: 500px) and (max-width: 1200px) {
-    nav {
-        align-content: center;
+  nav {
+    align-content: center;
 
-        * {
-            width: 100%;
+    * {
+      width: 100%;
 
-            display: flex;
-            flex-flow: column wrap;
-            justify-content: center;
-            align-items: center;
-        }
-
-        ul {
-            margin-top: $rhythm * 2;
-
-            display: block;
-        }
-
-        form {
-            input {
-                max-width: 50%;
-            }
-
-            button {
-                max-width: 25%;
-            }
-        }
+      display: flex;
+      flex-flow: column wrap;
+      justify-content: center;
+      align-items: center;
     }
+
+    ul {
+      margin-top: $rhythm * 2;
+
+      display: block;
+    }
+
+    form {
+      input {
+        max-width: 50%;
+      }
+
+      button {
+        max-width: 25%;
+      }
+    }
+  }
 }
 
 @media only screen and (min-width: 1200px) {
-    nav {
-        position: relative;
+  nav {
+    position: relative;
 
-        padding: 0;
+    padding: 0;
 
-        width: auto;
-        height: auto;
+    width: auto;
+    height: auto;
 
-        background: none;
+    background: none;
 
-        visibility: visible;
-        opacity: 1;
+    visibility: visible;
+    opacity: 1;
 
-        display: block;
+    display: block;
 
-        ul {
-            margin-left: $rhythm * 5;
-            margin-bottom: 0;
+    ul {
+      margin-bottom: 0;
 
-            display: flex;
+      display: flex;
 
-            li {
-                padding: ($rhythm / 2) $rhythm;
-            }
-        }
+      li {
+        padding: 0.7rem 0rem 0.7rem 1.8rem;
+      }
     }
+  }
 }
-

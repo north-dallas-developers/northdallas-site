@@ -3,9 +3,12 @@ const { JSDOM } = require("jsdom");
 
 module.exports = function(eleventyConfig) {
     // Enable assets
-    eleventyConfig.addPassthroughCopy("assets/css");
     eleventyConfig.addPassthroughCopy("assets/img");
     eleventyConfig.addPassthroughCopy("assets/js");
+
+    eleventyConfig.setBrowserSyncConfig({
+        watch: true
+    });
 
     // For readable dates
     eleventyConfig.addFilter("readableDate", dateObj => {

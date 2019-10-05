@@ -1,17 +1,40 @@
 footer {
-    margin: ($rhythm / 2) 0;
+  padding: 0.7rem 0;
 
-    flex-shrink: 0;
+  border-top: 1px solid rgba(0, 0, 0, 0.12);
 
-    ul {
-        margin: 0;
+  background: white; // Might be inflexible
 
-        display: flex;
-        justify-content: center;
-        align-items: center;
+  flex-shrink: 0;
 
-        li {
-            margin: 0 ($rhythm / 3);
-        }
+  & a {
+    text-decoration: none;
+  }
+
+  & img {
+    height: 100%;
+
+    vertical-align: middle;
+  }
+
+  ul {
+    margin: 0;
+    padding: 0 1.68rem;
+
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+
+    li {
+      margin: 0 ($rhythm / 3);
+
+      height: 28px;
     }
+  }
+}
+
+.list-break {
+  box-sizing: border-box;
+  border-right: 1px solid rgba(0, 0, 0, 1);
+  height: 35px;
 }
