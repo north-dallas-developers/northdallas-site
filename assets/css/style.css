@@ -751,10 +751,6 @@ input {
   margin-bottom: 1.4rem;
 }
 
-hr {
-  width: 100%;
-}
-
 article h2 img {
   height: 40px;
   margin-bottom: 0px;
@@ -779,6 +775,10 @@ article p a {
   text-decoration: none;
   text-align: center;
   font-size: medium;
+}
+
+hr {
+  width: 100%;
 }
 
 @media only screen and (min-width: 534px) {
@@ -1165,17 +1165,6 @@ button:active {
 }
 article {
   margin: 1.4rem 0;
-}
-
-article h2 img {
-  height: 40px;
-  margin-bottom: 0px;
-  vertical-align: middle;
-  margin-right: 5px;
-}
-
-article h2 {
-  font-weight: 500;
 }
 
 .sub-time {
