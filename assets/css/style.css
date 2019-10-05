@@ -726,6 +726,10 @@ input {
   margin-bottom: 1.4rem;
 }
 
+hr {
+  width: 100%;
+}
+
 @media only screen and (min-width: 534px) {
   main {
     padding: 1.4rem 2.1rem;
@@ -1315,7 +1319,11 @@ article h2 {
 }
 
 .section-officers {
-  padding: 0;
+  background: #5DC5EE;
+  padding: 2rem 10vw;
+}
+.section-officers h1 {
+  color: white;
 }
 
 .list-officers {
@@ -1331,6 +1339,32 @@ article h2 {
 }
 .list-officers-item img {
   border-radius: 50%;
+}
+.list-officers-item a {
+  color: white;
+}
+
+.hr\:dotted {
+  background: none;
+  border-top: rgba(0, 0, 0, 0.2) 2px dashed;
+}
+
+.hr\:dotted_white {
+  border-top-color: white;
+}
+
+.section-goal {
+  display: flex;
+  flex-flow: column nowrap;
+  align-items: center;
+}
+
+.section-goal-icon_small {
+  max-width: 5rem;
+}
+
+.section-goal-text {
+  max-width: 30rem;
 }
 
 @media only screen and (min-width: 1024px) {

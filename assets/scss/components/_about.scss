@@ -8,7 +8,13 @@
 }
 
 .section-officers {
-    padding: 0;
+    background: map-get($map: $colors, $key: skyblue);
+
+    padding: 2rem 10vw;
+
+    h1 {
+        color: white;
+    }
 }
 
 .list-officers {
@@ -27,6 +33,34 @@
     img {
         border-radius: 50%;
     }
+
+    a {
+        color: white;
+    }
+}
+
+.hr\:dotted {
+    background: none;
+
+    border-top: rgba(0, 0, 0, 0.2) 2px dashed;
+}
+
+.hr\:dotted_white {
+    border-top-color: white;
+}
+
+.section-goal {
+    display: flex;
+    flex-flow: column nowrap;
+    align-items: center;
+}
+
+.section-goal-icon_small {
+    max-width: 5rem;
+}
+
+.section-goal-text {
+    max-width: 30rem;
 }
 
 @media only screen and (min-width: 1024px) {
