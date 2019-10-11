@@ -30,9 +30,9 @@ module.exports = function(eleventyConfig) {
         let regExp = /^(\w+\W+?){50}/g
 
         if (regExp.test(firstParagraph)) {
-            firstParagraph = firstParagraph.slice(0, firstParagraph.lastIndexOf(".", regExp.lastIndex)) + `. <a href=${url}>read more…</a>`;
+            firstParagraph = firstParagraph.slice(0, firstParagraph.lastIndexOf(".", regExp.lastIndex)) + ".";
         }
 
-        return `<p>${firstParagraph}</p>`;
+        return `<p>${firstParagraph}</p>` + `<button onclick="location.href='${url}'" class="article-button">View More >></button>`;
     });
 }
