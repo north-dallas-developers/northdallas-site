@@ -26,7 +26,8 @@
 }
 
 .section-hero {
-  margin-top: $rhythm * 4;
+  background: 
+  linear-gradient(rgba(93, 197, 238, 0.8), rgba(93, 197, 238, 0.8)), url("/assets/img/hero-placeholder.jpg") center center / cover no-repeat;
 
   height: 100vh;
   min-height: $rhythm * 16;
@@ -108,9 +109,7 @@
 
 @media only screen and (min-width: 534px) {
   .background-arrow_hero {
-    width: 65vw;
-
-    left: -($rhythm * 1.5);
+    width: 60vw;
 
     opacity: 1;
   }
@@ -121,9 +120,10 @@
 }
 
 @media only screen and (min-width: 700px) {
-  .background-arrow_hero {
-    width: 60vw;
-    left: -($rhythm * 5);
+  .section-hero {
+    background: 
+    url("/assets/img/hero-arrow.svg") 0 50% / 60% 100% no-repeat, 
+    url("/assets/img/hero-placeholder.jpg") 10vw 40% / 100% no-repeat;
   }
 }
 
@@ -137,21 +137,20 @@
   }
 
   .hero-display_main-text {
-    max-width: $rhythm * 16;
+    max-width: $rhythm * 10;
   }
 }
 
 @media only screen and (min-width: 1200px) {
   .section-hero {
+    background: 
+    url("/assets/img/hero-arrow.svg") 0 50% / 55% 100% no-repeat, 
+    url("/assets/img/hero-placeholder.jpg") 10vw 40% / 100% no-repeat;
+
     max-height: 30rem;
   }
 
   .hero-display {
     font-size: $rhythm * 3.5;
-  }
-
-  .background-arrow_hero {
-    width: 50vw;
-    left: -($rhythm * 10);
   }
 }
