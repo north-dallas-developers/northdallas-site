@@ -10,7 +10,8 @@
 .section-officers {
     background: map-get($map: $colors, $key: skyblue);
 
-    padding: 2rem 10vw;
+    padding-left: 10vw;
+    padding-right: 10vw;
 
     h1 {
         color: white;

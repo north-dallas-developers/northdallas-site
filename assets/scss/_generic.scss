@@ -29,7 +29,9 @@ section {
 }
 
 .section-first {
-  margin-top: 5.2rem;
+  margin-top: 5rem + $rhythm;
+
+  padding-top: 3 * $rhythm;
 }
 
 a {
@@ -93,19 +95,19 @@ hr {
 }
 
 @media only screen and (min-width: 534px) {
-  main {
+  section {
     padding: ($rhythm) ($rhythm * 1.5);
   }
 }
 
 @media only screen and (min-width: 700px) {
-  main {
+  section {
     padding: ($rhythm) ($rhythm * 5);
   }
 }
 
 @media only screen and (min-width: 1200px) {
-  main {
+  section {
     padding: ($rhythm) ($rhythm * 10);
   }
 }
