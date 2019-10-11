@@ -7,8 +7,23 @@ article {
     margin-bottom: 0.5rem;
 }
 
-.article_section {
-    margin: $rhythm 0;
+.article-section_meeting {
+    padding-bottom: 1rem;
+}
+
+.section-meeting-navigation {
+    > a {
+        text-decoration: none;
+    }
+}
+
+.h2-link {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+
+    > a {
+        text-decoration: none;
+    }
 }
 
 .section-meeting-navigation {

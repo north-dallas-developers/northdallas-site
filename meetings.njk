@@ -9,7 +9,7 @@ layout: page.njk
 ---
 <section class="section-first">
     {%- for meeting in meetings -%}
-    <article>
+    <article class="article-section_meeting">
         <h2 class="h2-link"><a href="{{ meeting.url }}">{{ meeting.data.title}}</a></h2>
         <div class="sub-time">
             <time>{{ meeting.date | readableDate }}</time>
@@ -17,16 +17,18 @@ layout: page.njk
         
         {% meetingSummary meeting.templateContent, meeting.url %}
     </article>
+    <hr />
     {%- endfor -%}
 </section>
 <section class="section-meeting-navigation">
-    <a href="{{ pagination.previousPageHref }}">Newer</a>
-    <ul class="section-meeting-navigation_link-list">
-        {%- for i in range(1, pagination.hrefs.length + 1) -%}
-            <li>
-                <a href="{{ pagination.hrefs[i - 1] }}">{{ i }}</a>
-            </li>
-        {%- endfor -%}
-    </ul>
-    <a href="{{ pagination.nextPageHref }}">Older</a>
+    {% set leftHref = "href='" + pagination.previousPageHref + "'" %}
+    {% set rightHref = "href='" + pagination.nextPageHref + "'" %}
+    {% if pagination.previousPageHref === null %}
+        {% set leftGray = "style='color: gray;'" %}
+        {% set leftHref = "" %}
+    {% elif pagination.nextPageHref === null %}
+        {% set rightGray = "style='color: gray;'" %}
+        {% set rightHref = "" %}
+    {% endif %}
+    <a {{ leftHref | safe }} {{ leftGray | safe }}><< View Newer Posts</a> | <a {{ rightHref | safe }} {{ rightGray | safe }}>View Older Posts >></a>
 </section>

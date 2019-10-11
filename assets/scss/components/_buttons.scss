@@ -29,9 +29,9 @@ button:active {
 
 .primary-button {
   padding: 0.56rem;
-  background: rgba(0, 0, 0, 0.871);
+  background: map-get($map: $colors, $key: funston-black);
   color: white;
-  border: 2px solid rgba(0, 0, 0, 0.871);
+  border: 2px solid map-get($map: $colors, $key: funston-black);
   transition: all 0.3s cubic-bezier(0.455, 0.03, 0.515, 0.955);
   border-radius: 30px;
   -webkit-appearance: button;
@@ -193,9 +193,20 @@ $hamburger-width: $rhythm * 1.2;
   font-size: medium;
 }
 
+.article-button {
+  background: map-get($map: $colors, $key: funston-black);
+  color: white;
+
+  min-height: 60px;
+  border-radius: 30px;
+
+  font-weight: 700;
+  font-size: 1.125rem;
+}
+
 @media only screen and (min-width: 1200px) {
   button {
-    max-width: 30%;
+    max-width: 20%;
   }
 
   .button_hamburger {
