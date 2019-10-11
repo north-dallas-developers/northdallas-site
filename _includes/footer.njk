@@ -2,8 +2,8 @@
 <footer>
     <!-- Social media + copyright -->
     <ul>
-        <li>&copy; 2019</li>
-        <li><a href="https://www.zealitconsultants.com/"><span>Powered by </span><img src="{{ '/assets/img/logos/logo-zeal.png' | url }}" alt="Link to Zeal"></a></li>
+        {% block copyright %}<li class="copyright">&copy; 2019</li>{% endblock %}
+        <li class="list-logo"><a href="https://www.zealitconsultants.com/"><span>Powered by </span><img src="{{ '/assets/img/logos/logo-zeal.png' | url }}" alt="Link to Zeal"></a></li>
         <li class="list-break" />
         <li><a href="https://www.linkedin.com/company/zeal-capital-management/"><img src="{{ '/assets/img/logos/logo-linkedin.svg' | url }}" alt="Link to LinkedIn"></a></li>
         <li><a href="https://www.glassdoor.com/Reviews/Zeal-IT-Consultants-Reviews-E1877606.htm"><img src="{{ '/assets/img/logos/logo-glassdoor.svg' | url }}" alt="Link to GlassDoor"></a></li>

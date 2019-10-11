@@ -21,7 +21,7 @@
 }
 
 .bar-navigation {
-  padding: 0 ($rhythm * 1.2);
+  padding: ($rhythm - 0.4rem) ($rhythm * 1.2);
 
   display: flex;
   justify-content: space-between;
