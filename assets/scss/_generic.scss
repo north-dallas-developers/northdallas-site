@@ -88,21 +88,6 @@ article h2 {
   font-weight: 500;
 }
 
-article p a {
-  padding: 0.56rem;
-  background: rgba(0, 0, 0, 0.871);
-  color: white;
-  border: 2px solid rgba(0, 0, 0, 0.871);
-  transition: all 0.3s cubic-bezier(0.455, 0.03, 0.515, 0.955);
-  border-radius: 30px;
-  -webkit-appearance: button;
-  -moz-appearance: button;
-  min-width: 167px;
-  text-decoration: none;
-  text-align: center;
-  font-size: medium;
-}
-
 hr {
     width: 100%;
 }
