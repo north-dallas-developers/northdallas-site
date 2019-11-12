@@ -15,15 +15,23 @@ title: North Dallas Developer Users Group
 </section>
 
 <!-- Current Meeting Section -->
-<section>
+<section class="current-meeting-section">
     <h1 class="event-header">
         <img src="/assets/img/icons/calendarbookmarkicon.png" />
         <span>Events</span>
     </h1>
-    <div class="title-break"></div>
-    <article class="article_meeting">
+    <hr class="title-break"/>
+    <article>
         {{ collections.meeting[collections.meeting.length-1].templateContent | safe }}
     </article>
+    <hr class="title-break"/>
+    <div class="current-meeting-section_upcoming-link"><a href="/meetings/">View all upcoming Events >></a></div>
 </section>
 
-{% include "mail_signup.njk" %}
+<section class="sponsor-section">
+    <h1>Become a Sponsor</h1>
+    <p>Interested in sponsoring upcoming events? <br/> Register below and a team member of our group will be in contact with you.</p>
+    <button class="article-button">
+        Sponsor Registration
+    </button>
+</section>

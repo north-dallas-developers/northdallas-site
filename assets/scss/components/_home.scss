@@ -1,30 +1,3 @@
-.list-sponsors {
-  display: flex;
-  flex-flow: row wrap;
-  justify-content: center;
-  align-items: center;
-
-  margin: 0;
-}
-
-.item-sponsor {
-  padding: 0 ($rhythm);
-  margin: $rhythm / 2 0;
-
-  flex: 1 auto;
-  min-height: 75px;
-  max-width: $rhythm * 10;
-
-  display: flex;
-  justify-content: center;
-  align-items: center;
-
-  img {
-    width: 100%;
-    height: 100%;
-  }
-}
-
 .section-hero {
   background: 
   linear-gradient(rgba(93, 197, 238, 0.8), rgba(93, 197, 238, 0.8)), url("/assets/img/hero-placeholder.jpg") center center / cover no-repeat;
@@ -101,9 +74,54 @@
   font-weight: 500;
 }
 
+.current-meeting-section {
+  article {
+    margin-bottom: 2 * $rhythm;
+  }
+}
+
+.current-meeting-section_upcoming-link {
+  font-weight: 700;
+  font-size: 1.125rem;
+}
+
+.sponsor-section {
+  display: flex;
+  flex-flow: column wrap;
+  align-items: center;
+
+  > * {
+    text-align: center;
+    font-size: 1.125rem;
+  }
+
+  > p {
+    margin-bottom: 1.25 * $rhythm;
+  }
+
+   > h1 {
+    font-size: 2.75rem;
+  }
+
+  > .article-button {
+    width: 80%;
+  }
+}
+
 @media only screen and (min-width: 500px) {
   .section-hero {
     justify-content: center;
+  }
+
+  .sponsor-section {
+    > h1 {
+      font-size: 4rem;
+    }
+
+    > .article-button {
+      width: 100%;
+      max-width: 50%;
+    }
   }
 }
 
@@ -128,16 +146,18 @@
 }
 
 @media only screen and (min-width: 820px) {
-  .item-sponsor {
-    flex: 1 ($rhythm * 8);
-  }
-
   .section-hero {
     max-height: 20rem;
   }
 
   .hero-display_main-text {
     max-width: $rhythm * 10;
+  }
+
+  .sponsor-section {
+    > .article-button {
+      max-width: 30%;
+    }
   }
 }
 
