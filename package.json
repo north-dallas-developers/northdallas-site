@@ -17,7 +17,7 @@
     "sass": "^1.23.0"
   },
   "scripts": {
-    "build": "npx eleventy && sass assets/scss:assets/css",
+    "build": "npx sass assets/scss:assets/css && npx eleventy",
     "watch": "npx eleventy --watch",
     "debug": "DEBUG=* npx eleventy",
     "start": "concurrently --kill-others \"npx eleventy --serve\" \"npx sass --watch assets/scss:assets/css\""
