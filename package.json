@@ -17,10 +17,10 @@
     "sass": "^1.23.0"
   },
   "scripts": {
-    "build": "npx eleventy && sass assets/scss:_site/assets/css",
+    "build": "npx eleventy && sass assets/scss:assets/css",
     "watch": "npx eleventy --watch",
     "debug": "DEBUG=* npx eleventy",
-    "start": "concurrently --kill-others \"eleventy --serve\" \"sass --watch assets/scss:_site/assets/css\""
+    "start": "concurrently --kill-others \"npx eleventy --serve\" \"npx sass --watch assets/scss:assets/css\""
   },
   "repository": {
     "type": "git",
