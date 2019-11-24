@@ -1,6 +1,6 @@
 ---
 title: 'Micro:bit, Web Bluetooth, and Find a Friend: micro:bit Edition for the Kids'
-date: '2019-10-21'
+date: '2019-11-06'
 ---
 # {{ title }}
 

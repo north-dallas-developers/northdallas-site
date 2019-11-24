@@ -1,6 +1,6 @@
 ---
 title: How to Create Effective Hands-On Labs for Developers
-date: '2019-09-28'
+date: '2019-10-02'
 ---
 # {{ title }}
 

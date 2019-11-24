@@ -1,6 +1,6 @@
 ---
 title: 'Building Full-Stack Solutions with C# & ASP.NET Core 3.0'
-date: '2019-09-03'
+date: '2019-09-11'
 ---
 # {{ title }}
     # Building Full-Stack Solutions with C# & ASP.NET Core 3.0
