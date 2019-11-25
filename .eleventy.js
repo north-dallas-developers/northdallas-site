@@ -5,7 +5,9 @@ module.exports = function(eleventyConfig) {
     // Enable assets
     eleventyConfig.addPassthroughCopy("assets/img");
     eleventyConfig.addPassthroughCopy("assets/js");
+    eleventyConfig.addPassthroughCopy("assets/css");
 
+    eleventyConfig.setUseGitIgnore(false);
     eleventyConfig.setBrowserSyncConfig({
         watch: true
     });

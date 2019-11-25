@@ -1,4 +1,6 @@
-/node_modules
+.vscode
+.netlify
 .DS_store
-/_site
-/assets/css/style.css.map
+node_modules
+_site
+assets/css
