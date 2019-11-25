@@ -2,7 +2,7 @@ fieldset {
     border: none;
 }
 
-input {
+input, textarea {
     padding: $rhythm;
 
     max-width: 80%;

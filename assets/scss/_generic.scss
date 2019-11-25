@@ -73,7 +73,7 @@ th {
   font-size: large;
 }
 
-input {
+input, textarea {
   border: $stroke-size solid map-get($map: $colors, $key: funston-black);
   margin-bottom: $rhythm;
 }
