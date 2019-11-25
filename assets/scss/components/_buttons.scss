@@ -204,11 +204,13 @@ $hamburger-width: $rhythm * 1.2;
   font-size: 1.125rem;
 }
 
-@media only screen and (min-width: 1200px) {
-  button {
-    max-width: 20%;
+@media only screen and (min-width: 1000px) {
+  .article-section_meeting .article-button {
+    max-width: 40%;
   }
+}
 
+@media only screen and (min-width: 1200px) {
   .button_hamburger {
     display: none;
   }
