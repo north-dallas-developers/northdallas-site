@@ -3,20 +3,33 @@ fieldset {
 }
 
 input, textarea {
-    padding: $rhythm;
-
-    max-width: 80%;
-
+    padding: $rhythm * .5;
     height: $rhythm * 2;
-}
-
-button {
-    width: 50%;
+    font-size: 1rem;
+    width: 100%;
 }
 
 .container-email_nav {
     form {
         margin: auto;
+    }
+}
+
+.sponsor-section form {
+    text-align: left;
+    width: 100%;
+    max-width: 300px;
+    button {
+        width: 100%;
+    }
+    label {
+        display: block;
+    }
+
+    textarea {
+        height: 7.5rem;
+        max-width: 100%;
+        resize: vertical;
     }
 }
 
