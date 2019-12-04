@@ -20,7 +20,7 @@
     "build": "npx sass assets/scss:assets/css && npx eleventy",
     "watch": "npx eleventy --watch",
     "debug": "DEBUG=* npx eleventy",
-    "start": "concurrently --kill-others \"npx eleventy --serve\" \"npx sass --watch assets/scss:assets/css\""
+    "start": "concurrently --kill-others \"npx eleventy --serve\" \"npx sass --watch assets/scss:_site/assets/css\""
   },
   "repository": {
     "type": "git",
