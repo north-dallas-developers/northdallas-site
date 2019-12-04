@@ -89,11 +89,8 @@
   display: flex;
   flex-flow: column wrap;
   align-items: center;
-
-  > * {
-    text-align: center;
-    font-size: 1.125rem;
-  }
+  text-align: center;
+  font-size: 1.125rem;
 
   > p {
     margin-bottom: 1.25 * $rhythm;
@@ -101,10 +98,6 @@
 
    > h1 {
     font-size: 2.75rem;
-  }
-
-  > .article-button {
-    width: 80%;
   }
 }
 
@@ -116,11 +109,6 @@
   .sponsor-section {
     > h1 {
       font-size: 4rem;
-    }
-
-    > .article-button {
-      width: 100%;
-      max-width: 50%;
     }
   }
 }
@@ -152,12 +140,6 @@
 
   .hero-display_main-text {
     max-width: $rhythm * 10;
-  }
-
-  .sponsor-section {
-    > .article-button {
-      max-width: 30%;
-    }
   }
 }
 
