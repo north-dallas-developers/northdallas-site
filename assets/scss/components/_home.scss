@@ -1,6 +1,6 @@
 .section-hero {
   background: 
-  linear-gradient(rgba(93, 197, 238, 0.8), rgba(93, 197, 238, 0.8)), url("/assets/img/hero-placeholder.jpg") center center / cover no-repeat;
+  linear-gradient(rgba(93, 197, 238, 0.8), rgba(93, 197, 238, 0.8)), url("/assets/img/nddg-group-image.jpg") center center / cover no-repeat;
 
   height: 100vh;
   min-height: $rhythm * 16;
@@ -129,7 +129,7 @@
   .section-hero {
     background: 
     url("/assets/img/hero-arrow.svg") 0 50% / 60% 100% no-repeat, 
-    url("/assets/img/hero-placeholder.jpg") 10vw 40% / 100% no-repeat;
+    url("/assets/img/nddg-group-image.jpg") 10vw 40% / 100% no-repeat;
   }
 }
 
@@ -147,7 +147,7 @@
   .section-hero {
     background: 
     url("/assets/img/hero-arrow.svg") 0 50% / 55% 100% no-repeat, 
-    url("/assets/img/hero-placeholder.jpg") 10vw 40% / 100% no-repeat;
+    url("/assets/img/nddg-group-image.jpg") 10vw 40% / 100% no-repeat;
 
     max-height: 30rem;
   }
