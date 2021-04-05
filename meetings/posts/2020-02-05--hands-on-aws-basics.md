@@ -10,7 +10,7 @@ In this hands-on session, you will build a self-contained dotnet core applicatio
 
 Requirements:
 
- * Bring your laptop, Windows, Mac, or Linux.
+* Bring your laptop, Windows, Mac, or Linux.
 * Sign up for AWS, because you will be doing these labs on your own account.
 * Install dotnet core 3.1
 * Sql Server Management Studio, Azure Data Studio, or something to connect to Sql Server.
