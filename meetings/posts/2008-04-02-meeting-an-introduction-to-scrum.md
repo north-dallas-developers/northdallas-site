@@ -1,6 +1,6 @@
 ---
 title: '4/2/2008 Meeting: An Introduction To Scrum'
-date: '2008-03-29'
+date: '2008-04-02'
 ---
 # {{ title }}
 

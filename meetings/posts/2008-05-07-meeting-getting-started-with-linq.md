@@ -1,6 +1,6 @@
 ---
 title: '5/7/2008 Meeting: Getting Started With LINQ'
-date: '2008-05-03'
+date: '2008-05-07'
 ---
 # {{ title }}
 

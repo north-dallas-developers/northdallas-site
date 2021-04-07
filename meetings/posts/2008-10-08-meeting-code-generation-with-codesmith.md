@@ -1,6 +1,6 @@
 ---
 title: '10/7/2008 Meeting:  Code Generation with CodeSmith'
-date: '2008-11-02'
+date: '2008-10-08'
 ---
 # {{ title }}
 
