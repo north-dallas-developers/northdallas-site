@@ -26,7 +26,7 @@ date: '2021-04-07'
         <tr>
             <td valign="top">Location:</td>
             <td>&nbsp;</td>
-            <td><a title="Location" rel="noopener noreferrer" target="_blank" href="">Zoom (link forthcoming)</a></td>
+            <td><a title="Location" rel="noopener noreferrer" target="_blank" href="https://match.zoom.us/j/91201838653?pwd=MS85U2JlODFTMktOZnpPbVpROVpDUT09">Zoom (Password: Amir202104)</a></td>
         </tr>
     </tbody>
 </table>
