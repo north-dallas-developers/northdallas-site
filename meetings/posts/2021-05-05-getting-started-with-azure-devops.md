@@ -6,6 +6,8 @@ date: '2021-05-05'
 
 <p>In this session I will walk you through setting up a basic CI/CD release flow to Azure for an ASP.NET Core MVC site using Azure DevOps. Consider this a 101-level introduction to Azure DevOps, so this is for those who have little to no experience with the tool.</p>
 
+<p><b>UPDATED!</b>Gist that has the yaml file for the build pipeline: <a href="https://gist.github.com/Mallioch/804fd37b84c5074826cf6be7e6e2b814">https://gist.github.com/Mallioch/804fd37b84c5074826cf6be7e6e2b814</a></p>
+
 <table border="0">
     <tbody>
         <tr>
