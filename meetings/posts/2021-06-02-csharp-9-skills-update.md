@@ -1,6 +1,3 @@
-
-
-
 ---
 title: 'C# 9 Skills Update'
 date: '2021-06-02'
