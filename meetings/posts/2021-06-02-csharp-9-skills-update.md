@@ -13,7 +13,7 @@ date: '2021-06-02'
         <tr>
             <td>Speaker:</td>
             <td>&nbsp;</td>
-            <td><a href="https://twitter.com/TRayburn"><b>Tim Rayburn</b></a></td>
+            <td><a href="https://twitter.com/TRayburn" rel="noopener noreferrer" target="_blank"><b>Tim Rayburn</b></a></td>
         </tr>
         <tr>
             <td>Date:</td>
@@ -28,7 +28,7 @@ date: '2021-06-02'
         <tr>
             <td valign="top">Location:</td>
             <td>&nbsp;</td>
-            <td><a title="Location" rel="noopener noreferrer" target="_blank" href="#">Zoom (link forthcoming)</a></td>
+            <td><a title="Location" rel="noopener noreferrer" target="_blank" href="https://match.zoom.us/j/94669815623?pwd=emFJQnNPZ0NqNGcxUTRENCtGQ2JJUT09">Zoom</a></td>
         </tr>
     </tbody>
 </table>
