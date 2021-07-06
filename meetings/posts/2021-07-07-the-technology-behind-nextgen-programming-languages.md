@@ -1,6 +1,6 @@
 ---
 title: 'The Technology behind Next-Generation Programming Languages'
-date: '2021-06-02'
+date: '2021-07-02'
 ---
 # {{ title }}
 
@@ -28,7 +28,7 @@ date: '2021-06-02'
         <tr>
             <td valign="top">Location:</td>
             <td>&nbsp;</td>
-            <td><a title="Location" rel="noopener noreferrer" target="_blank" href="#">Zoom (link forthcoming)</a></td>
+            <td><a title="Location" rel="noopener noreferrer" target="_blank" href="https://match.zoom.us/j/99338310369?pwd=MFZkUjFGU0dRQUc1TmtIeDZjVDlIUT09">Zoom</a></td>
         </tr>
     </tbody>
 </table>
