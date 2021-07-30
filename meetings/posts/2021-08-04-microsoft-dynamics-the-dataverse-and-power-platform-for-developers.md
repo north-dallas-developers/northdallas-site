@@ -39,7 +39,7 @@ date: '2021-08-04'
             <td>&nbsp;</td>
             <td>In person at Improving: <a href="https://g.page/improving-dallas?share">Google Maps</a>
             <br />
-            On Zoom: <a title="Location" rel="noopener noreferrer" target="_blank" href="#">(link forthcoming)</a></td>
+            On Zoom: <a title="Location" rel="noopener noreferrer" target="_blank" href="https://match.zoom.us/j/97171045932">link</a> <em>(note: password will be posted day of meeting)</em></td>
         </tr>
     </tbody>
 </table>
