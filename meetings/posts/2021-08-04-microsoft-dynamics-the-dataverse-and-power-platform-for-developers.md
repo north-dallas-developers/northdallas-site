@@ -10,6 +10,8 @@ date: '2021-08-04'
 
 <p><em>NOTE</em>: This meeting will be in-person at Improving for all those who want to join us. We'll also stream through Zoom as usual, but if you would prefer to see people in real life, feel free to join us. But by joining us in-person, you acknowledge that you take the risk on yourself re: COVID of meeting in person. Please see this note from our location sponsor.</p>
 
+<p><em>UPDATE</em>: For those coming in person, the Improving office is on the first floor right inside the front door. Once you enter in, the mtg will be in the conference room to your immediate left. There are masks and hand sanitizer there at the front door for those who want them.</p>
+
 <blockquote>
 <p>I acknowledge the contagious nature of the Coronavirus/COVID-19 and that the CDC and many other public health authorities still recommend practicing social distancing.   I further acknowledge that Improving has put in place preventative measures to reduce the spread of the Coronavirus/COVID-19.  I further acknowledge that Improving cannot guarantee that I will not become infected with the Coronavirus/Covid-19.  I understand that the risk of becoming exposed to and/or infected by the Coronavirus/COVID-19 may result from the actions, omissions, or negligence of myself and others.</p>
 
