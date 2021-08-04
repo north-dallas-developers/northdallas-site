@@ -12,6 +12,8 @@ date: '2021-08-04'
 
 <p><em>UPDATE</em>: For those coming in person, the Improving office is on the first floor right inside the front door. Once you enter in, the mtg will be in the conference room to your immediate left. There are masks and hand sanitizer there at the front door for those who want them.</p>
 
+<p><strong><a href="https://join.slack.com/t/northdallasdevelopers/shared_invite/zt-520t8ao5-LlPhAdqqax6YtsxuRWitnA">Join our Slack channel</a></strong></p>
+
 <blockquote>
 <p>I acknowledge the contagious nature of the Coronavirus/COVID-19 and that the CDC and many other public health authorities still recommend practicing social distancing.   I further acknowledge that Improving has put in place preventative measures to reduce the spread of the Coronavirus/COVID-19.  I further acknowledge that Improving cannot guarantee that I will not become infected with the Coronavirus/Covid-19.  I understand that the risk of becoming exposed to and/or infected by the Coronavirus/COVID-19 may result from the actions, omissions, or negligence of myself and others.</p>
 
