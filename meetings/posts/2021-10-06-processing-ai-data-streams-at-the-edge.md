@@ -26,7 +26,6 @@ date: '2021-10-06'
         <tr>
             <td valign="top">Location:</td>
             <td>&nbsp;</td>
-            
             <td><a title="Location" rel="noopener noreferrer" target="_blank" href="#">Zoom link forthcoming</a></td>
         </tr>
     </tbody>
