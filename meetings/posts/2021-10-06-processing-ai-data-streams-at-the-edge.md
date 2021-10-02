@@ -6,10 +6,6 @@ date: '2021-10-06'
 
 <p>While Azure Percept brings AI at the edge, various containers can process telemetry streams and implement business logic directly to IoT Edge devices. Attend this presentation to learn more about creating and deploying Azure Functions and Azure Stream Analytics in container that filters data from an Azure Percept Device.</p>
 
-<p><em>NOTE</em>: This meeting will be virtual.</p>
-
-<p><strong><a href="https://join.slack.com/t/northdallasdevelopers/shared_invite/zt-520t8ao5-LlPhAdqqax6YtsxuRWitnA">Join our Slack channel</a></strong></p>
-
 <table border="0">
     <tbody>
         <tr>
