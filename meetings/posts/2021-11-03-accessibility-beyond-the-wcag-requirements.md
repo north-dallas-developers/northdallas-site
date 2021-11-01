@@ -26,11 +26,11 @@ date: '2021-11-03'
         <tr>
             <td valign="top">Location:</td>
             <td>&nbsp;</td>
-            <td><a title="Location" rel="noopener noreferrer" target="_blank" href="#">Zoom (link forthcoming)</a></td>
+            <td><a title="Location" rel="noopener noreferrer" target="_blank" href="https://match.zoom.us/j/93566960000">Zoom</a> pw: ND2111</td>
         </tr>
     </tbody>
 </table>
 
 <h2>Speaker Bio</h2>
 
-<p>Mackenzie Clark is a software engineer at match.com. She is passionate about UX/UI, accessibility, and cats.</p>
+<p>Mackenzie Clark is a software engineer at <a title="match.com" rel="noopener noreferrer" target="_blank" href="https://match.com">match.com</a>. She is passionate about UX/UI, accessibility, and cats.</p>
