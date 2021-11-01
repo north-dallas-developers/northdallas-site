@@ -31,6 +31,8 @@ date: '2021-11-03'
     </tbody>
 </table>
 
+<h2><a target="_blank" rel="noopener noreferrer" href="https://www.eventbrite.com/e/accessibility-beyond-the-wcag-requirements-tickets-202098420817">====== RSVP Here! =======</a></h2>
+
 <h2>Speaker Bio</h2>
 
 <p>Mackenzie Clark is a software engineer at <a title="match.com" rel="noopener noreferrer" target="_blank" href="https://match.com">match.com</a>. She is passionate about UX/UI, accessibility, and cats.</p>
