@@ -31,8 +31,6 @@ date: '2021-12-01'
     </tbody>
 </table>
 
-<h2><a target="_blank" rel="noopener noreferrer" href="">====== RSVP Here! =======</a></h2>
-
 <h2>Speaker Bio</h2>
 
 <p>Armand Zerilli is a senior software engineer at <a title="invisionapp.com" rel="noopener noreferrer" target="_blank" href="https://www.invisionapp.com">InVision</a>. He is a somewhat-clever programmer who loves programming language theory, creative coding, and human-centric design. Also keyboards. 60% water by weight. Beware of even cheaper imitations!</p>
