@@ -26,10 +26,12 @@ date: '2021-12-01'
         <tr>
             <td valign="top">Location:</td>
             <td>&nbsp;</td>
-            <td><a title="Location" rel="noopener noreferrer" target="_blank" href="https://match.zoom.us/j/93566960000">Zoom</a> pw: ND2111</td>
+            <td><a title="Location" rel="noopener noreferrer" target="_blank" href="https://match.zoom.us/j/91222352383">Zoom</a> pw: ND2112</td>
         </tr>
     </tbody>
 </table>
+
+<h2><a target="_blank" rel="noopener noreferrer" href="https://www.eventbrite.com/e/lessons-from-building-a-subpar-programming-language-tickets-220111538537">====== RSVP Here! =======</a></h2>
 
 <h2>Speaker Bio</h2>
 
