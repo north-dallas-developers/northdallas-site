@@ -26,7 +26,7 @@ date: '2022-02-02'
         <tr>
             <td valign="top">Location:</td>
             <td>&nbsp;</td>
-            <td><a title="Location" rel="noopener noreferrer" target="_blank" href="#">Zoom</a> pw: ND2111</td>
+            <td><a title="Location" rel="noopener noreferrer" target="_blank" href="https://match.zoom.us/j/95753547113">Zoom</a> pw: NDF2022</td>
         </tr>
     </tbody>
 </table>
