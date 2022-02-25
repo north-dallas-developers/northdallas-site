@@ -8,6 +8,8 @@ date: '2022-03-02'
 
 Let's talk more about Angular, what Web Components are and how we can use Angular to create them.
 
+**NOTE**: This is an in-person event and [Improving](https://improving.com/) is providing pizza.
+
 <table>
 <tbody>
 <tr><td>Speaker:</td><td>&nbsp;</td><td><b><a title="Dante Jackson" target="_blank" href="https://www.invisionthat.com/">Dante Jackson</a></b></td></tr>
