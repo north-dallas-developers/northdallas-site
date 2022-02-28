@@ -14,7 +14,7 @@ Let's talk more about Angular, what Web Components are and how we can use Angula
 <tbody>
 <tr><td>Speaker:</td><td>&nbsp;</td><td><b><a title="Dante Jackson" target="_blank" href="https://www.invisionthat.com/">Dante Jackson</a></b></td></tr>
 <tr><td>Date:</td><td>&nbsp;</td><td><b>March 2<sup>nd</sup>, 2022</b></td></tr>
-<tr><td valign="top">Time:</td><td>&nbsp;</td><td><b>6:30 PM - 8:30 PM (see <a title="Location" href="/about/">here</a> for more detail)</b></td></tr>
+<tr><td valign="top">Time:</td><td>&nbsp;</td><td><b>6:30 PM - 8:30 PM (see <a title="Location" href="/contact/">here</a> for more detail)</b></td></tr>
 <tr><td valign="top">Location:</td><td>&nbsp;</td><td><b>Improving - Plano, TX</b><br><a title="Google" target="_blank" href="https://g.page/improving-dallas?share">Google Maps</a></td></tr>
 </tbody>
 </table>
