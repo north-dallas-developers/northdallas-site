@@ -10,6 +10,14 @@ Let's talk more about Angular, what Web Components are and how we can use Angula
 
 **NOTE**: This is an in-person event and [Improving](https://improving.com/) is providing pizza.
 
+[Source Code](https://github.com/techiediaries/angular-web-component-demo)
+
+[Presentation](https://docs.google.com/presentation/d/1EPTp7xJz4PJNOenTCImzl8Maaj08lKxlNtNAlLbvNeE/edit#slide=id.gc6f73a04f_0_0)
+
+[PLEASE FILL OUT THIS SURVEY](https://forms.gle/mgFQgWF5PVMMbLpJ9)
+
+
+
 <table>
 <tbody>
 <tr><td>Speaker:</td><td>&nbsp;</td><td><b><a title="Dante Jackson" target="_blank" href="https://www.invisionthat.com/">Dante Jackson</a></b></td></tr>
