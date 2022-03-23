@@ -10,6 +10,7 @@ Amir will explain the underlying machinery that powers VR, and show you how can 
 
 **NOTE**: This is an in-person event and [Improving](https://improving.com/) is providing pizza. Pizza starts at 6:00. Amir will start at 6:30!
 
+[For a little demo of DragonRuby on the Oculus Quest, check this out.](https://www.youtube.com/watch?app=desktop&v=I_s_kyOUgzM)
 
 
 
