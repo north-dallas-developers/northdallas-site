@@ -4,7 +4,7 @@ date: '2022-06-08'
 ---
 # {{ title }}
 
-Interviews can be stressful but practice helps. This month we are gathering together to help each other out by giving mock interviews. Well, mostly mock interviews as there will be people interviewing that may be looking to hire. If you are a developer who has experience interviewing other developers and would like to help, please RSVP and email the officers at officers@northdallas.net. If you would like to be interviewed (no pressure!), RSVP below! It is recommended that you bring several copies of your resume.
+Interviews can be stressful but practice helps. This month we are gathering together to help each other out by giving mock interviews. Well, mostly mock interviews as there will be people interviewing that may be looking to hire. If you are a developer who has experience interviewing other developers and would like to help, please [RSVP](https://www.eventbrite.com/e/community-interview-practice-tickets-356256020347) and email the officers at officers@northdallas.net. If you would like to be interviewed (no pressure!), [RSVP](https://www.eventbrite.com/e/community-interview-practice-tickets-356256020347)! It is recommended that you bring several copies of your resume.
 
 **NOTE**: This is an in-person event and [Improving](https://improving.com/) is providing pizza. Pizza starts at 6:00. The official event will start at 6:30!
 
