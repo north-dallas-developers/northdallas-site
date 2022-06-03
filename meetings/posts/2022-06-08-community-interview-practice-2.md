@@ -18,5 +18,5 @@ Interviews can be stressful but practice helps. This month we are gathering toge
 </tbody>
 </table>
 
-[Attend Event (RSVP!)]([https://www.eventbrite.com/e/windows-key-and-windows-machine-learning-tickets-328955834757](https://www.eventbrite.com/e/community-interview-practice-tickets-356256020347))
+[RSVP for Event](https://www.eventbrite.com/e/community-interview-practice-tickets-356256020347)
 
