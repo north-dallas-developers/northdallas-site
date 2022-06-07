@@ -8,6 +8,16 @@ Interviews can be stressful but practice helps. This month we are gathering toge
 
 **NOTE**: This is an in-person event and [Improving](https://improving.com/) is providing pizza. Pizza starts at 6:00. The official event will start at 6:30!
 
+Current interviewers:
+
+* David Penton - [Match.com](https://www.match.com/)
+* David Vibbert - [Improving](https://improving.com/)
+* Eric Sowell - [Improving](https://improving.com/)
+* Gabriela Garza-Ramos - [Improving](https://improving.com/)
+* Jared Felner - [CERiS](https://www.ceris.com)
+* Joey Guerra - [kaizen](https://www.kaizen.io/)
+* Lori Davis - [Improving](https://improving.com/)
+* Scott McKelvey - [WebCE](https://www.webce.com/)
 
 
 <table>
