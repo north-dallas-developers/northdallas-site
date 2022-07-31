@@ -4,7 +4,7 @@ date: '2022-08-03'
 ---
 # {{ title }}
 
-I love [Obsidian](https://obsidian.md/). What is it? It's one of those "second brain" kinds of tools and I'm using it for general knowledge management and research, as well as for managing tasks word projects. You don't have to be a developer to use it (so feel free to invite less nerdy folks), but I think it has a special appeal for our developer brains. Also, developers can write plugins for the tool, which we'll discuss.
+I love [Obsidian](https://obsidian.md/). What is it? It's one of those "second brain" kinds of tools, and I'm using it for general knowledge management and research, as well as for managing tasks work projects. You don't have to be a developer to use it (so feel free to invite less nerdy folks), but I think it has a special appeal for our developer brains. Also, developers can write plugins for the tool, which we'll discuss.
 
 What will we cover?
 
@@ -33,4 +33,4 @@ Install [Obsidian](https://obsidian.md/) (it's free) and bring your laptop so yo
 
 ## ![](/assets/img/icons/speakerbioicon.png) Speaker Bio
 
-<p>Eric is a Principal Consultant for <a href="https://improving.com/">Improving</a>, officer of this Users Group, developer, and coding instructor. He is the author of a mostly out-of-date book, Mobile ASP.NET MVC 5. When not coding, he likes to read, study history, Bible, and dead languages, think a lot about teaching, and play Minecraft with the kids. To keep up-to-date with Eric's strange technology, Latin, and Greek adventures, you can <a href="https://twitter.com/Mallioch">follow him on Twitter</a>, <a href="https://www.youtube.com/channel/UCCHcJejvdlXxLlG0encr53Q">subscribe on Youtube</a>, or <a href="https://ericsowell.com/blog">follow him on his blog</a>.</p>
+<p>Eric is a Principal Consultant for <a href="https://improving.com/">Improving</a>, officer of this Users Group, developer, and coding instructor. He is the author of a mostly out-of-date book (don't buy it), Mobile ASP.NET MVC 5. When not coding, he likes to read, study history, Bible, and dead languages, think a lot about teaching, and play Minecraft with the kids. To keep up-to-date with Eric's strange technology, Latin, and Greek adventures, you can <a href="https://twitter.com/Mallioch">follow him on Twitter</a>, <a href="https://www.youtube.com/channel/UCCHcJejvdlXxLlG0encr53Q">subscribe on Youtube</a>, or <a href="https://ericsowell.com/blog">follow him on his blog</a>.</p>
