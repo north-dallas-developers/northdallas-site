@@ -31,6 +31,8 @@ Install [Obsidian](https://obsidian.md/) (it's free) and bring your laptop so yo
 
 [Attend Event](https://www.eventbrite.com/e/deep-dive-into-obsidian-tickets-394077916657)
 
-## ![](/assets/img/icons/speakerbioicon.png) Speaker Bio
+## ![](/assets/img/icons/speakerbioicon.png) Speaker Bios
 
-<p>Eric is a Principal Consultant for <a href="https://improving.com/">Improving</a>, officer of this Users Group, developer, and coding instructor. He is the author of a mostly out-of-date book (don't buy it), Mobile ASP.NET MVC 5. When not coding, he likes to read, study history, Bible, and dead languages, think a lot about teaching, and play Minecraft with the kids. To keep up-to-date with Eric's strange technology, Latin, and Greek adventures, you can <a href="https://twitter.com/Mallioch">follow him on Twitter</a>, <a href="https://www.youtube.com/channel/UCCHcJejvdlXxLlG0encr53Q">subscribe on Youtube</a>, or <a href="https://ericsowell.com/blog">follow him on his blog</a>.</p>
+<p>Ben Kennedy aspires to be a change agent in an IT organization aiming towards a DevOps culture, agile values, and supporting the idea of software craftsmanship. He values team autonomy and doing the right thing over following a rigid process. He focuses developing systems of work that promote the ability to make decisions at the last responsible moment and reward experimentation. Dungeons and Dragons nerd, Obsidian.md assimilated, software development opinions collector.</p>
+
+<p>Eric Sowell is a Principal Consultant for <a href="https://improving.com/">Improving</a>, officer of this Users Group, developer, and coding instructor. He is the author of a mostly out-of-date book (don't buy it), Mobile ASP.NET MVC 5. When not coding, he likes to read, study history, Bible, and dead languages, think a lot about teaching, and play Minecraft with the kids. To keep up-to-date with Eric's strange technology, Latin, and Greek adventures, you can <a href="https://twitter.com/Mallioch">follow him on Twitter</a>, <a href="https://www.youtube.com/channel/UCCHcJejvdlXxLlG0encr53Q">subscribe on Youtube</a>, or <a href="https://ericsowell.com/blog">follow him on his blog</a>.</p>
