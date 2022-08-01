@@ -4,7 +4,7 @@ date: '2022-08-03'
 ---
 # {{ title }}
 
-I love [Obsidian](https://obsidian.md/). What is it? It's one of those "second brain" kinds of tools, and I'm using it for general knowledge management and research, as well as for managing tasks work projects. You don't have to be a developer to use it (so feel free to invite less nerdy folks), but I think it has a special appeal for our developer brains. Also, developers can write plugins for the tool, which we'll discuss.
+I (Eric) love [Obsidian](https://obsidian.md/). What is it? It's one of those "second brain" kinds of tools, and I'm using it for general knowledge management and research, as well as for managing tasks work projects. You don't have to be a developer to use it (so feel free to invite less nerdy folks), but I think it has a special appeal for our developer brains. Also, developers can write plugins for the tool, which we'll discuss. But I won't be alone in this. I'll be joined by two others, Ben Kennedy and Russell Durham, who will help show off how to use this tool.
 
 What will we cover?
 
@@ -22,7 +22,7 @@ Install [Obsidian](https://obsidian.md/) (it's free) and bring your laptop so yo
 
 <table>
 <tbody>
-<tr><td>Speaker:</td><td>&nbsp;</td><td><b><a title="Eric Sowell" target="_blank" href="https://twitter.com/mallioch">Eric Sowell</a></b></td></tr>
+<tr><td>Speakers:</td><td>&nbsp;</td><td><b><a title="Eric Sowell" target="_blank" href="https://twitter.com/mallioch">Eric Sowell</a></b><b>Ben Kennedy</b>, <b>Russell Durham</b></td></tr>
 <tr><td>Date:</td><td>&nbsp;</td><td><b>Aug 3<sup>rd</sup>, 2022</b></td></tr>
 <tr><td valign="top">Time:</td><td>&nbsp;</td><td><b>6:00 PM - 8:30 PM (see <a title="Location" href="/contact/">here</a> for more detail)</b></td></tr>
 <tr><td valign="top">Location:</td><td>&nbsp;</td><td><b>Improving - Plano, TX</b><br><a title="Google" target="_blank" href="https://g.page/improving-dallas?share">Google Maps</a></td></tr>
