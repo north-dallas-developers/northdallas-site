@@ -18,6 +18,7 @@ Blazor is an enabling new programming model for applications with C# and .NET. B
 </table>
 
 [RSVP - Attend Event **In-Person**](https://www.eventbrite.com/e/blazor-architecture-patterns-in-person-attendance-tickets-408098001107)
+
 [RSVP - Attend Event **Remotely**](https://www.eventbrite.com/e/blazor-architecture-patterns-remote-tickets-408097048257)
 
 ## ![](/assets/img/icons/speakerbioicon.png) Speaker Bios
