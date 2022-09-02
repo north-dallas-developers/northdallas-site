@@ -6,7 +6,7 @@ date: '2022-09-14'
 
 Blazor is an enabling new programming model for applications with C# and .NET. Blazor brings stateful application models to the web and to web-delivered scenarios. From delivering Blazor apps to production and operating them at increasing scale, Clear Measure has curated some important architecture patterns that empower developers to move fast, deliver consistent quality, and run the application with confidence. This presentation assumes the attendee is already familiar with Blazor and available quick starts of these rules or break them, you will continually struggle to achieve no-touch, no-drama software deployments.
 
-**NOTE**: Jeffrey is speaking virtually, so this will be both a remote AND in-person event. There will be two different RSVP links below for each. For those who choose to come in-person, [Improving](https://improving.com/) is providing pizza at 6:00 and we'll get a chance to hang out and talk until we show the presentation on the projectors. The presentation will begin at 6:30. 
+**NOTE**: Jeffrey is speaking virtually, so this will be both a remote AND in-person event. There will be two different RSVP links below for each. For those who choose to come in-person, there will be some swag from [Clear Measure](https://clearmeasure.com). Also, [Improving](https://improving.com/) is providing pizza at 6:00, so we'll get a chance to hang out and talk until we show the presentation on the projectors. The presentation will begin at 6:30. 
 
 <table>
 <tbody>
