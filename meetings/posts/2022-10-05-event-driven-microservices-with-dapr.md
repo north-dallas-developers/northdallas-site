@@ -23,4 +23,6 @@ Note that this is an in-person event. Pizza will arrive at 6:00 and the presenta
 
 ## ![](/assets/img/icons/speakerbioicon.png) Speaker Bio
 
+<img src="https://avatars.githubusercontent.com/u/2836367?v=4" style="height: 100px;" />
+
 Anthony Sneed works as Chief Technology Architect for Hilti, a construction tools and services company headquartered in Lichtenstein. He has been coding in C# since v1 (circa 2002) and has authored several open-source frameworks which include 60 NuGet packages with over 2 million downloads. His technical blog ([https://blog.tonysneed.com](https://blog.tonysneed.com)) has had almost 1.5 million visits. He has trained over 2000 developers in .NET and related technologies and authored courses for both DevelopMentor and Wintellect. He is a die-hard Star Wars fan and lives with his wife and three children in McKinney, Texas.
