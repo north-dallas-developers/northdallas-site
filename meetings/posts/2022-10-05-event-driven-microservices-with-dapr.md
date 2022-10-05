@@ -10,6 +10,9 @@ In this workshop Tony will discuss how using Dapr (Distributed Application Runti
 
 Note that this is an in-person event. Pizza will arrive at 6:00 and the presentation will start at 6:30. Please RSVP so [Improving](https://improving.com/) knows how much pizza to purchase for us.
 
+[Slides and code from Tony for the presentation](https://github.com/tonysneed/event-driven-dapr)
+
+
 <table>
 <tbody>
 <tr><td>Speaker:</td><td>&nbsp;</td><td><b><a title="Anthony Sneed" target="_blank" href="https://blog.tonysneed.com">Anthony Sneed</a></b></td></tr>
