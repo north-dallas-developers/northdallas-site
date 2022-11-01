@@ -1,6 +1,6 @@
 ---
 title: Blazor Architecture Patterns
-date: '2022-09-14'
+date: '2022-11-02'
 ---
 # {{ title }}
 
