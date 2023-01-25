@@ -20,7 +20,6 @@ nav {
 
   visibility: hidden;
   opacity: 0;
-  transition: all 0.4s cubic-bezier(1, 0, 0, 1);
 
   form,
   .button-email {
@@ -42,6 +41,12 @@ nav {
 
   & li {
     margin-bottom: 0;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  nav {
+    transition: all 0.4s cubic-bezier(1, 0, 0, 1);
   }
 }
 
