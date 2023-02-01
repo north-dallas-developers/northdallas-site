@@ -4,7 +4,7 @@ date: '2023-02-01'
 ---
 # {{ title }}
 
-**NOTE**: Due to the weather, we're going to try to do this virtually. Continue to RSVP so we know you're interested and can let you know. We'll update this when we know more.
+**NOTE**: Due to the weather, we're going to do this virtually. [This is the link to join the Zoom call](https://us06web.zoom.us/j/89342272459?pwd=Y3JqWVlBNm51UDI2WUo0cE5qNVpWUT09) (passcode 896546). Some of us will jump on around 6 but the presentation will not begin until 6:30.
 
 As applications are becoming more cloud-based and cloud-native, developers need to understand network services and architecture.
 
@@ -20,6 +20,8 @@ This talk is for developers who need to understand more about network topology o
 </table>
 
 [RSVP - Attend Event](https://www.eventbrite.com/e/network-fundamentals-for-devs-tickets-523275249357)
+
+[Zoom link](https://us06web.zoom.us/j/89342272459?pwd=Y3JqWVlBNm51UDI2WUo0cE5qNVpWUT09) - passcode 896546
 
 
 ## ![](/assets/img/icons/speakerbioicon.png) Speaker Bios
