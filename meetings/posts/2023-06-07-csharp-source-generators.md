@@ -8,6 +8,7 @@ Discover C# Source Generators ([official Microsoft docs](https://learn.microsoft
 
 **NOTE**: This meeting is in-person. Also, [Improving](https://improving.com/) is providing pizza at 6:00 and the presentation will begin at 6:30. 
 
+<p><a href="https://github.com/nikclarkson/sourceGenerators" target="_blank" title="GitHub repository nikclarkson/sourceGenerators">GitHub repository</a> from Nik's presentation</p>
 
 <table>
 <tbody>
