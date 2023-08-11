@@ -6,6 +6,9 @@ date: '2023-06-07'
 
 <p>Mixed Reality features are available on the web by the use of WebXR. Experience virtual reality (VR) and augmented reality (AR) content in a compatible WebXR-enabled browser. Attend this session and leverage the power of JavaScript and web skills to create more engaging Mixed Reality experiences. We will look at popular open-source AR/VR JavaScript libraries available to get started.</p>
 
+<p><a href="https://www.meetup.com/dallas-virtual-reality/events/294626231/">Ron's upcoming workshop on Lens Studio.</a></p>
+<p><a href="https://github.com/rondagdag/mr4jsdevs">Presentation and sample code for this meeting.</a></p>
+
 **NOTE**: This meeting is in-person. Also, [Improving](https://improving.com/) is providing pizza at 6:00 and the presentation will begin at 6:30. 
 
 <table>
