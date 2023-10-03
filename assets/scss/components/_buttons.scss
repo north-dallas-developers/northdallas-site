@@ -1,5 +1,5 @@
 button {
-  padding: calc($rhythm / 5);
+  padding: $rhythm / 5;
 
   width: 50%;
 
@@ -87,8 +87,8 @@ button:active {
   }
 }
 
-$hamburger-height: calc($rhythm / 5.5);
-$hamburger-width: calc($rhythm * 1.2);
+$hamburger-height: $rhythm / 5.5;
+$hamburger-width: $rhythm * 1.2;
 
 // Default state
 .hamburger-enter {
@@ -159,7 +159,7 @@ $hamburger-width: calc($rhythm * 1.2);
 
 // E-mail buttons
 .button-email {
-  padding: calc($rhythm / 2.5);
+  padding: $rhythm / 2.5;
 
   background: map-get($map: $colors, $key: funston-black);
 
