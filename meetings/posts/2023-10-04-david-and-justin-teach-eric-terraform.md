@@ -23,6 +23,10 @@ If you are unfamiliar with AWS that's okay. We will also explain the AWS-related
 
 [RSVP - Attend Event](https://www.eventbrite.com/e/david-and-justin-teach-eric-and-you-terraform-tickets-730770693817?aff=oddtdtcreator)
 
-## ![](/assets/img/icons/speakerbioicon.png) Speaker Bio
+## ![](/assets/img/icons/speakerbioicon.png) Speaker Bios
 
 Eric Sowell is a Director of Consulting for [Improving](https://improving.com/), officer of this Users Group, developer, and coding instructor. He is the author of an out-of-date book (so don't buy it), *Mobile ASP.NET MVC 5*. When not coding, he likes to read, study history, Bible, Greek, Latin, think a lot about teaching, and play Civilization 6 and Age of Empires 2. To keep up-to-date with Eric's strange technology, Latin, and Greek adventures, you can [follow him on Twitter](https://twitter.com/Mallioch), [subscribe on Youtube](https://www.youtube.com/channel/UCCHcJejvdlXxLlG0encr53Q), or [follow him on his blog](https://ericsowell.com/blog).
+
+<br /><br />
+
+David L. Penton lives in the Dallas, Texas area and has a bachelor's degree in Mathematics from Northwestern State University, Natchitoches, LA. He is currently the Managing Partner of [Foundry Force, LLC](https://foundryforce.com) consulting with executives about technology concerns. He currently spends most of his time with AWS, C# cross platform, PostgreSQL, and SQL Server. When he is not coding, he is trying to be the best he can for his family. After that, he has been working on improving his golf game.

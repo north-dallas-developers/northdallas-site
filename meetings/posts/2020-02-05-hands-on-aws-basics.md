@@ -54,7 +54,7 @@ Requirements:
 
 ## Speakers
 
-David L. Penton lives in the Dallas, Texas area and has a bachelor's degree in Mathematics from Northwestern State University, Natchitoches, LA. He is currently a Senior Director with Match Group (Match.com). He currently spends most of his time with C# cross platform, PostgreSQL, and SQL Server. When he is not coding, he is trying to be the best he can for his family. After that, he been working on improving his golf game.
+David L. Penton lives in the Dallas, Texas area and has a bachelor's degree in Mathematics from Northwestern State University, Natchitoches, LA. He is currently a Senior Director with Match Group (Match.com). He currently spends most of his time with C# cross platform, PostgreSQL, and SQL Server. When he is not coding, he is trying to be the best he can for his family. After that, he has been working on improving his golf game.
 
 Eric is Director of Software Development for Muv, officer of this Users Group, and former coding instructor. He is the author of a mostly out-of-date book, Mobile ASP.NET MVC 5. When not coding, he likes to read, study history, Bible, and dead languages, think a lot about teaching, and play Minecraft with the kids.
 
