@@ -14,7 +14,7 @@ If you are unfamiliar with AWS that's okay. We will also explain the AWS-related
 
 <table>
 <tbody>
-<tr><td>Speaker:</td><td>&nbsp;</td><td><b>Justin Williams</b>, <b>David Penton</b>, and <b>Eric Sowell</b></td></tr>
+<tr><td>Speaker:</td><td>&nbsp;</td><td><b>Justin Williams</b>, <b>David L. Penton</b>, and <b>Eric Sowell</b></td></tr>
 <tr><td>Date:</td><td>&nbsp;</td><td><b>October 4<sup>th</sup>, 2023</b></td></tr>
 <tr><td valign="top">Time:</td><td>&nbsp;</td><td><b>6:00 PM - 8:30 PM (see <a title="Location" href="/contact/">here</a> for more detail)</b></td></tr>
 <tr><td valign="top">Location:</td><td>&nbsp;</td><td><b>Improving - Plano, TX</b><br><a title="Google" target="_blank" href="https://g.page/improving-dallas?share">Google Maps</a></td></tr>
