@@ -32,7 +32,7 @@ article {
     align-items: center;
 
     a {
-        margin: 0 $rhythm / 2;
+        margin: 0 calc($rhythm / 2);
     }
 }
 
@@ -40,7 +40,7 @@ article {
     margin: 0;
 
     li {
-        margin: 0 ($rhythm / 3);
+        margin: 0 calc($rhythm / 3);
 
         display: inline-block;
 
