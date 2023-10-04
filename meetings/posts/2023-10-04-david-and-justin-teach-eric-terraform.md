@@ -6,7 +6,7 @@ date: '2023-10-06'
 
 My name is Eric. I have been a developer for two decades and I have never written a Terraform script. It’s used a ton though, so I should learn to use it.
 
-Justin and David both use Terraform. In order to help me get over my ignorance, they are going to teach me in the meeting, and I will setup a static website on AWS live using Terraform. We’ll (at least) create an EC2 instance, setup a Dynamo table, and setup an S3 bucket with it. If you come prepared (install Terraform and create an AWS account), you can do this live with us as well and we’ll help you out. If you have any issues getting setup, you can come early at 5:30 and we can help you out.
+Justin and David both use Terraform. In order to help me get over my ignorance, they are going to teach me in the meeting, and I will setup a static website on AWS live using Terraform. We’ll (at least) create an EC2 instance, setup a Dynamo table, and setup an S3 bucket with it. If you come prepared ([see the instructions in this readme](https://github.com/north-dallas-developers/d-and-j-teach-e-tf)), you can do this live with us as well and we’ll help you out. If you have any issues getting setup, you can come early at 5:30 and we can help you out.
 
 If you are unfamiliar with AWS that's okay. We will also explain the AWS-related bits as we go along.
 
