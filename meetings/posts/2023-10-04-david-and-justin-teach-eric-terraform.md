@@ -10,6 +10,8 @@ Justin and David both use Terraform. In order to help me get over my ignorance, 
 
 If you are unfamiliar with AWS that's okay. We will also explain the AWS-related bits as we go along.
 
+**NOTE**: Please pull down the [repository](https://github.com/north-dallas-developers/d-and-j-teach-e-tf) ahead of time and have the pre-reqs completed
+
 **NOTE**: This meeting is in-person. Also, [Improving](https://improving.com/) is providing pizza at 6:00 and the presentation will begin at 6:30. 
 
 <table>
