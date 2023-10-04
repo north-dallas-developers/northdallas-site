@@ -18,6 +18,7 @@ If you are unfamiliar with AWS that's okay. We will also explain the AWS-related
 <tr><td>Date:</td><td>&nbsp;</td><td><b>October 4<sup>th</sup>, 2023</b></td></tr>
 <tr><td valign="top">Time:</td><td>&nbsp;</td><td><b>6:00 PM - 8:30 PM (see <a title="Location" href="/contact/">here</a> for more detail)</b></td></tr>
 <tr><td valign="top">Location:</td><td>&nbsp;</td><td><b>Improving - Plano, TX</b><br><a title="Google" target="_blank" href="https://g.page/improving-dallas?share">Google Maps</a></td></tr>
+<tr><td>Repository:</td><td>&nbsp;</td><td><a title="Repository" href="https://github.com/north-dallas-developers/d-and-j-teach-e-tf" target="_blank">d-and-j-teach-e-tf</a></td></tr>
 </tbody>
 </table>
 
@@ -28,3 +29,5 @@ If you are unfamiliar with AWS that's okay. We will also explain the AWS-related
 Eric Sowell is a Director of Consulting for [Improving](https://improving.com/), officer of this Users Group, developer, and coding instructor. He is the author of an out-of-date book (so don't buy it), *Mobile ASP.NET MVC 5*. When not coding, he likes to read, study history, Bible, Greek, Latin, think a lot about teaching, and play Civilization 6 and Age of Empires 2. To keep up-to-date with Eric's strange technology, Latin, and Greek adventures, you can [follow him on Twitter](https://twitter.com/Mallioch), [subscribe on Youtube](https://www.youtube.com/channel/UCCHcJejvdlXxLlG0encr53Q), or [follow him on his blog](https://ericsowell.com/blog).
 
 David L. Penton lives in the Dallas, Texas area and has a bachelor's degree in Mathematics from [Northwestern State University](https://www.nsula.edu). He is currently the Managing Partner of [Foundry Force, LLC](https://foundryforce.com) consulting with executives about technology concerns. He currently spends most of his time with AWS, C# cross platform, PostgreSQL, and SQL Server. When he is not coding, he is trying to be the best he can for his family. After that, he has been working on improving his golf game.
+
+Justin Williams lives in the Dallas, Texas area and has a bachelor's degree in Software Engineering from [UTD](https://www.utdallas.edu/). He is currently the Managing Patner of his own life (for the most part) and a Staff Engineer at [Concord](https://concordservicing.com/) mostly working on the company's cloud migration. He currently spends most of his time pretending he knows infrastructure and hoping no one notices. Outside of work his wife, 6 year old daughter, dog, and rabbit keep him pretty busy.
