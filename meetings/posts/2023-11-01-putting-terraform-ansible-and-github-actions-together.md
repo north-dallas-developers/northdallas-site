@@ -10,6 +10,8 @@ Like the last meeting, this will have a hands-on element to it. If you have Terr
 
 If you are unfamiliar with any of these technologies, that's okay. We will also explain the basics of AWS, Terraform, and Ansible as we go along.
 
+[Repo for tonight](https://github.com/north-dallas-developers/nov-2023-terraform-ansible-githubactions).
+
 **NOTE**: This meeting is in-person. Also, [Improving](https://improving.com/) is providing pizza at 6:00 and the presentation will begin at 6:30. 
 
 <table>
