@@ -10,7 +10,9 @@ In this talk we will review what is TLS, what are basics about certificates, and
 
 Yes we'll code with a code that is measured and slow, And we'll go where the up-down arrows go, for the developers, they mark, and the developers, they know the place where TLS ends.
 
-[Improving](https://improving.com/) is providing pizza at 6:00 and the presentation will begin at 6:30. 
+[Improving](https://improving.com/) is providing pizza at 6:00 and the presentation will begin at 6:30.
+
+[Code and presentation](https://github.com/north-dallas-developers/where-the-tls-ends)
 
 <table>
 <tbody>
