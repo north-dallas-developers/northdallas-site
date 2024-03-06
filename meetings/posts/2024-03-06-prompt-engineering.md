@@ -17,7 +17,11 @@ Unlock the full potential of AI with our transformative talk, 'Prompt Engineerin
 </tbody>
 </table>
 
+**NOTE: If tickets are sold out, you can still come. Just email us at officers@northdallas.net so we know you're coming.**
+
 [RSVP - Attend Event](https://www.eventbrite.com/e/prompt-engineering-crafting-prompts-and-code-for-optimal-ai-interaction-tickets-851843947177?aff=oddtdtcreator)
+
+
 
 ## ![](/assets/img/icons/speakerbioicon.png) Speaker Bios
 
