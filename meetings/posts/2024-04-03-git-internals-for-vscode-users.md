@@ -25,3 +25,6 @@ Come prepared to learn, share, and embrace the union of git internals and VS Cod
 
 [RSVP - Attend Event](https://www.eventbrite.com/e/git-internals-for-vs-code-users-bridging-the-gap-tickets-873294476287)
 
+## ![](/assets/img/icons/speakerbioicon.png) Speaker Bio
+
+Full Stack Senior Software Consultant. I can't speak for WIT. Only for myself. Respect, support & encouragement I've received from wonderful Developer Community has been life-changing.
