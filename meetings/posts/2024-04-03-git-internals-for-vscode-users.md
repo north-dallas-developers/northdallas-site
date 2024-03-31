@@ -15,7 +15,7 @@ Come prepared to learn, share, and embrace the union of git internals and VS Cod
 <table>
 <tbody>
 <tr><td>Speaker:</td><td>&nbsp;</td><td><b>Cori Drew</b></td></tr>
-<tr><td>Date:</td><td>&nbsp;</td><td><b>April 3rd<sup>th</sup>, 2024</b></td></tr>
+<tr><td>Date:</td><td>&nbsp;</td><td><b>April 3<sup>rd</sup>, 2024</b></td></tr>
 <tr><td valign="top">Time:</td><td>&nbsp;</td><td><b>6:00 PM - 8:30 PM (see <a title="Location" href="/contact/">here</a> for more detail)</b></td></tr>
 <tr><td valign="top">Location:</td><td>&nbsp;</td><td><b>Improving - Plano, TX</b><br><a title="Google" target="_blank" href="https://g.page/improving-dallas?share">Google Maps</a></td></tr>
 </tbody>
