@@ -25,7 +25,7 @@ This is a hands-on lab. Install python and bring your laptop. Walk away with som
 
 ## ![](/assets/img/icons/speakerbioicon.png) Speaker Bio
 
-Russell does not yet have a bio.
+Russell Durham is a senior software consultant for Improving and an officer of the North Dallas Developers user group. He is passionate about all aspects of software development and constantly seeks to expand his knowledge of emerging technologies. When he's not working, Russell enjoys playing video games online with freinds and takes on the role of Game Master for the occasional Dungeons and Dragons session.
 
 Eric Sowell is a Director of Consulting for Improving, officer of this Users Group, developer, and coding instructor. He is the author of an out-of-date book (so don't buy it), Mobile ASP.NET MVC 5. When not coding, he likes to read, study history, Bible, Greek, Latin, think a lot about teaching, and play Civilization 6 and Age of Empires 2. To keep up-to-date with Eric's strange technology, Latin, and Greek adventures, you can follow him on Twitter, subscribe on Youtube, or follow him on his blog.
 
