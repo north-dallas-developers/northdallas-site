@@ -25,4 +25,4 @@ Why do users prefer native apps over webapps?  It's more than just a speed issue
 
 Rylan is an Engineer and designer.  Always been attracted to building new & impossible things.  Never happy building with tech’s Current Thing™ though – hopelessly drawn to that bleeding edge, grassroots stench.  Been building for the web since 1999, mobile dev since 2004.  Author of the oldest indie app in the store.  Started a startup.  Raised VC.  Sold a startup. Made many mistakes. Learned a lot. Still trying to make that dent I promised the universe.
 
-Check out Rylan's [blog](https://rylan.io/), follow him on [X](http://x.com/schmylan), or connect with him on [LinkedIn](linkedin.com/in/rylanbarnes)
+Check out Rylan's [blog](https://rylan.io/), follow him on [X](https://x.com/schmylan), or connect with him on [LinkedIn](https://linkedin.com/in/rylanbarnes)
