@@ -17,6 +17,10 @@ Why do users prefer native apps over webapps?  It's more than just a speed issue
 </tbody>
 </table>
 
+**NOTE: If tickets are sold out, you can still come. Eventbrite is causing us some issues. Just email us at officers@northdallas.net so we know you're coming.**
+
+[RSVP - Attend Event](https://www.eventbrite.com/e/web4-on-reaching-the-limits-of-web2-tickets-977187623487?aff=oddtdtcreator)
+
 ## ![](/assets/img/icons/speakerbioicon.png) Speaker Bio
 
 Rylan is an Engineer and designer.  Always been attracted to building new & impossible things.  Never happy building with tech’s Current Thing™ though – hopelessly drawn to that bleeding edge, grassroots stench.  Been building for the web since 1999, mobile dev since 2004.  Author of the oldest indie app in the store.  Started a startup.  Raised VC.  Sold a startup. Made many mistakes. Learned a lot. Still trying to make that dent I promised the universe.
