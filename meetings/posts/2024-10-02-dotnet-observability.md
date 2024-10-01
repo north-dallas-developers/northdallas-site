@@ -19,8 +19,8 @@ Gain full visibility into your .NET applications by implementing observability w
 
 **NOTE: If tickets are sold out, you can still come. Eventbrite is causing us some issues. Just email us at officers@northdallas.net so we know you're coming.**
 
-[RSVP - Attend Event]()
+[RSVP - Attend Event](https://www.eventbrite.com/e/building-observable-net-applications-a-guide-to-traces-metrics-and-logs-tickets-1034821768767?aff=oddtdtcreator)
 
 ## ![](/assets/img/icons/speakerbioicon.png) Speaker Bio
 
-Russell Durham is a Senior Consultant at Improving and an officer of the North Dallas Developers group. He focuses on .NET development and distributed systems, with a passion for software design and continuous learning. Outside of work, Russell enjoys gaming with friends and family, serving as a Game Master for Dungeons & Dragons, and exploring new technologies through personal projects in his home lab.
+Russell Durham is a Senior Consultant at [Improving](https://improving.com/) and an officer of the [North Dallas Developers group](https://www.northdallas.net). He focuses on .NET development and distributed systems, with a passion for software design and continuous learning. Outside of work, Russell enjoys gaming with friends and family, serving as a Game Master for Dungeons & Dragons, and exploring new technologies through personal projects in his home lab.
