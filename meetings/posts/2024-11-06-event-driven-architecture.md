@@ -1,6 +1,6 @@
 ---
 title: 'Embracing Event-Driven Architecture: Opportunities and Challenges'
-date: '2024-11-06'
+date: '2024-12-04'
 ---
 # {{ title }}
 
@@ -13,7 +13,7 @@ Join us for an insightful discussion as we explore our collective experiences—
 <table>
 <tbody>
 <tr><td>Speaker:</td><td>&nbsp;</td><td><b>Skyler Tweedie</b></td></tr>
-<tr><td>Date:</td><td>&nbsp;</td><td><b>Nov 6<sup>th</sup>, 2024</b></td></tr>
+<tr><td>Date:</td><td>&nbsp;</td><td><b>Dev 4<sup>th</sup>, 2024</b></td></tr>
 <tr><td valign="top">Time:</td><td>&nbsp;</td><td><b>6:00 PM - 8:30 PM (see <a title="Location" href="/contact/">here</a> for more detail)</b></td></tr>
 <tr><td valign="top">Location:</td><td>&nbsp;</td><td><b>Improving - Plano, TX</b><br><a title="Google" target="_blank" href="https://g.page/improving-dallas?share">Google Maps</a></td></tr>
 </tbody>
