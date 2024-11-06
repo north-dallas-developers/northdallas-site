@@ -4,7 +4,7 @@ date: '2024-12-04'
 ---
 # {{ title }}
 
-**NOTE: ** This was originally scheduled for Nov 6th but we are pushing this to December.
+**NOTE** This was originally scheduled for Nov 6th but we are pushing this to December.
 
 Event-Driven Architecture (EDA) is rapidly gaining traction for its capacity to deliver real-time data and scale efficiently, especially for large projects and organizations. But with its advantages come potential complexities. Is investing in EDA worth the effort and potential pitfalls? Should it be part of your skill set or recommended for your organization?
 
@@ -15,7 +15,7 @@ Join us for an insightful discussion as we explore our collective experiences—
 <table>
 <tbody>
 <tr><td>Speaker:</td><td>&nbsp;</td><td><b>Skyler Tweedie</b></td></tr>
-<tr><td>Date:</td><td>&nbsp;</td><td><b>Dev 4<sup>th</sup>, 2024</b></td></tr>
+<tr><td>Date:</td><td>&nbsp;</td><td><b>Dec 4<sup>th</sup>, 2024</b></td></tr>
 <tr><td valign="top">Time:</td><td>&nbsp;</td><td><b>6:00 PM - 8:30 PM (see <a title="Location" href="/contact/">here</a> for more detail)</b></td></tr>
 <tr><td valign="top">Location:</td><td>&nbsp;</td><td><b>Improving - Plano, TX</b><br><a title="Google" target="_blank" href="https://g.page/improving-dallas?share">Google Maps</a></td></tr>
 </tbody>
