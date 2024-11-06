@@ -4,6 +4,8 @@ date: '2024-12-04'
 ---
 # {{ title }}
 
+**NOTE: ** This was originally scheduled for Nov 6th but we are pushing this to December.
+
 Event-Driven Architecture (EDA) is rapidly gaining traction for its capacity to deliver real-time data and scale efficiently, especially for large projects and organizations. But with its advantages come potential complexities. Is investing in EDA worth the effort and potential pitfalls? Should it be part of your skill set or recommended for your organization?
 
 Join us for an insightful discussion as we explore our collective experiences—both the successes and the challenges—of implementing event-driven architecture. This session will provide valuable perspectives to help you make informed decisions about integrating EDA into your projects.
