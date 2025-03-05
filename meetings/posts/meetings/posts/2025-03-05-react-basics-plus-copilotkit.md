@@ -15,6 +15,10 @@ What you need to have installed:
 * Git
 * Free CopilotKit Cloud account (https://docs.copilotkit.ai/quickstart)
 
+Other recommended things:
+
+* Install Ollama (https://ollama.com/)
+
 You will walk away with a few sample applications running on your machine and a little more understanding of how React works so you can get started building your own apps.
 
 [Improving](https://improving.com/) is providing pizza at 6:00 and the presentation will begin at 6:30.
