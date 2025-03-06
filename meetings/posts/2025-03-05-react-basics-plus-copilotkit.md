@@ -21,6 +21,8 @@ Other recommended things:
 
 You will walk away with a few sample applications running on your machine and a little more understanding of how React works so you can get started building your own apps.
 
+[Source code for tonight](https://github.com/Mallioch/nddg-copilotkit-2025-03-05)
+
 [Improving](https://improving.com/) is providing pizza at 6:00 and the presentation will begin at 6:30.
 
 <table>
