@@ -1,6 +1,6 @@
 ---
 title: 'Beyond Basic Queues: Messaging Patterns with MassTransit'
-date: '2025-05-05'
+date: '2025-07-05'
 ---
 # {{ title }}
 
@@ -11,7 +11,7 @@ Most developers have worked with queues—but there’s a lot more to messaging 
 <table>
 <tbody>
 <tr><td>Speaker:</td><td>&nbsp;</td><td><b>Russell Durham</b></td></tr>
-<tr><td>Date:</td><td>&nbsp;</td><td><b>May 5<sup>th</sup>, 2025</b></td></tr>
+<tr><td>Date:</td><td>&nbsp;</td><td><b>May 7<sup>th</sup>, 2025</b></td></tr>
 <tr><td valign="top">Time:</td><td>&nbsp;</td><td><b>6:00 PM - 8:30 PM (see <a title="Location" href="/contact/">here</a> for more detail)</b></td></tr>
 <tr><td valign="top">Location:</td><td>&nbsp;</td><td><b>Improving - Plano, TX</b><br><a title="Google" target="_blank" href="https://g.page/improving-dallas?share">Google Maps</a></td></tr>
 </tbody>
