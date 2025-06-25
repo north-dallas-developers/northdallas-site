@@ -1,6 +1,6 @@
 ---
 title: 'Beyond Basic Queues: Messaging Patterns with MassTransit'
-date: '2025-07-05'
+date: '2025-05-07'
 ---
 # {{ title }}
 
