@@ -12,7 +12,3 @@ No December 2025 meeting.
 <tr><td><img src="/assets/img/icons/nddg-2025.jpg" alt="winterlandschaft-1573505858O4f" /></td>
 </tr>
 </table>
-
-## Sponsoring
-
-Interested in sponsoring upcoming events?<br/><br />Contact us <a title="Contact" href="/contact/">here</a> and an officer of our group will be in contact with you.
