@@ -9,10 +9,10 @@ From all of us at the North Dallas Developers Group, we wish you a wonderful hol
 No December 2025 meeting.
 
 <table>
-<tr><td>![](/assets/img/icons/nddg-2025.jpg)</td>
+<tr><td><img src="/assets/img/icons/nddg-2025.jpg" alt="winterlandschaft-1573505858O4f" /></td>
 </tr>
 </table>
 
 ## Sponsoring
 
-Interested in sponsoring upcoming events? <br/> Contact us <a title="Contact" href="/contact/">here</a> and an officer of our group will be in contact with you.
+Interested in sponsoring upcoming events?<br/><br />Contact us <a title="Contact" href="/contact/">here</a> and an officer of our group will be in contact with you.
