@@ -41,7 +41,7 @@ Attendees will work through a live greenfield track, choosing between **Quick Fl
 </table>
 
 
-[RSVP - Attend Event](https://www.eventbrite.com/e/insights-from-unstructured-data-with-azure-ai-content-understanding-tickets-1955107502169?aff=oddtdtcreator)
+[RSVP - Attend Event](https://www.eventbrite.com/e/vibes-arent-a-strategy-engineering-context-in-the-age-of-ai-tickets-1979781934059?aff=oddtdtcreator)
 
 ## ![](/assets/img/icons/speakerbioicon.png) Speaker Bio
 
