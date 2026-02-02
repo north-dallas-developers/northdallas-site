@@ -1,0 +1,37 @@
+---
+title: "MCP Auth Demo: Securing AI Tool Access with OAuth 2.1
+date: '2026-02-04'
+---
+# {{ title }}
+ 
+## **MCP Auth Demo: Securing AI Tool Access with OAuth 2.1**
+ 
+This demo showcases how to secure Model Context Protocol (MCP) servers using OAuth 2.0, enabling AI assistants to safely and responsibly access external tools and data.
+
+The session features a Python-based FastMCP server with authenticated tools, along with two Node.js–based OAuth authorization servers demonstrating:
+
+- Dynamic Client Registration (RFC 7591)
+- Client ID Metadata Document (CIMD)–based registration
+
+The demo walks through the complete Authorization Code flow with PKCE, including JWT validation using OIDC discovery and JWKS.
+
+**Key takeaways include** how to apply OAuth 2.0 to MCP, compare DCR and CIMD approaches, and implement production-grade authentication patterns for AI integrations.
+
+[Improving](https://improving.com/) is providing pizza at 6:00 and the presentation will begin at 6:30.
+
+<table>
+<tbody>
+<tr><td>Speaker:</td><td>&nbsp;</td><td><b>Gautam Goudar</b></td></tr>
+<tr><td>Date:</td><td>&nbsp;</td><td><b>Feb 4<sup>th</sup>, 2026</b></td></tr>
+<tr><td valign="top">Time:</td><td>&nbsp;</td><td><b>6:00 PM - 8:30 PM (see <a title="Location" href="/contact/">here</a> for more detail)</b></td></tr>
+<tr><td valign="top">Location:</td><td>&nbsp;</td><td><b>Improving - Plano, TX</b><br><a title="Google" target="_blank" href="https://g.page/improving-dallas?share">Google Maps</a></td></tr>
+</tbody>
+</table>
+
+
+[RSVP - Attend Event](https://www.eventbrite.com/e/mcp-auth-demo-securing-ai-tool-access-with-oauth-21-tickets-1982218493875?aff=oddtdtcreator)
+
+## ![](/assets/img/icons/speakerbioicon.png) Speaker Bio
+
+Gautam Goudar is a Software Engineer with over 15 years of experience modernizing enterprise systems and building scalable software platforms. Over the past 2.5 years, he has focused on AI-driven solutions using Large Language Models, with an emphasis on Python and functional programming.
+He specializes in designing, modernizing, and scaling complex systems across diverse domains. Outside of technology, Gautam is a competitive Men’s Physique athlete and has competed in OCB events from 2023 to 2025. He holds a Master’s degree in Computer Science from the University of Oklahoma.
