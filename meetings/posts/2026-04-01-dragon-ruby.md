@@ -18,7 +18,7 @@ DragonRuby Game Toolkit is a cross-platform commercial game engine that exports 
 </table>
 
 
-[RSVP - Attend Event](https://www.eventbrite.com/e/build-your-own-software-factory-customized-ai-assisted-development-tickets-1984136797573?aff=oddtdtcreator)
+[RSVP - Attend Event](https://www.eventbrite.com/e/building-a-cross-platform-game-engine-with-ruby-tickets-1986357457627)
 
 ## ![](/assets/img/icons/speakerbioicon.png) Speaker Bio
 
